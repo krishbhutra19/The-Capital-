@@ -37,7 +37,7 @@ for model in models:
             result["story_count"] = len(result["stories"])
             out.parent.mkdir(exist_ok=True)
             out.write_text(json.dumps(result, ensure_ascii=False, indent=2))
-            print(f"Prepared {len(result["stories"])} stories; AI enabled=True; model={model}")
+            print(f"Prepared {len(result['stories'])} stories; AI enabled=True; model={model}")
             raise SystemExit(0)
         except Exception as exc:
             last_error = exc
