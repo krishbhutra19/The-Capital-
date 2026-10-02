@@ -13,17 +13,19 @@ EDITORIAL RULES
 - Political, government and regulatory stories must be described neutrally. Do not endorse or oppose political actors or policies.
 - Do not provide buy/sell recommendations or predict market/election outcomes.
 - If a requested slot has no meaningful story, omit it rather than using filler.
-- Target 12 stories, but fewer is correct when the news does not justify all slots.
+- Every required section must contain AT LEAST 2 genuinely distinct, meaningful stories. Never use filler.
+- Give EXTRA editorial depth to Indian startups, venture capital, private markets, M&A and emerging Indian sectors. Aim for 4 Indian startup/VC stories when meaningful news supports it.
+- Target at least 16 stories total (2 per section), with 18–20 when startup/VC coverage is strong.
 
 REQUIRED SECTION MIX, IN THIS ORDER
-1. Indian Stock Market Morning Brief — exactly 2 stories when meaningful.
-2. Global Markets — 1 story.
-3. India Government & Regulation — exactly 2 stories when meaningful.
-4. Macro & Geopolitics — exactly 2 stories when meaningful.
-5. Global Tech & Emerging Sectors — 1 story.
-6. India Emerging Sectors / Funding — 1 story.
-7. Marketing & Business Ideas — 1 story.
-8. Indian Startup Ecosystem — exactly 2 stories when meaningful.
+1. Indian Stock Market Morning Brief — minimum 2 stories.
+2. Global Markets — minimum 2 stories.
+3. India Government & Regulation — minimum 2 stories.
+4. Macro & Geopolitics — minimum 2 stories.
+5. Global Tech & Emerging Sectors — minimum 2 stories.
+6. India Emerging Sectors / Funding — minimum 2 stories.
+7. Marketing & Business Ideas — minimum 2 stories.
+8. Indian Startup Ecosystem — minimum 2 stories; aim for 4 when meaningful.
 
 For each story include:
 - section
@@ -68,7 +70,18 @@ Return valid JSON only, with this exact top-level structure:
     "usd_inr": "...",
     "us_10y": "...",
     "key_events": [],
-    "three_market_movers": []
+    "three_market_movers": [],
+  "dashboard_sources": {
+    "nifty_previous_close": {"source": "...", "url": "..."},
+    "sensex_previous_close": {"source": "...", "url": "..."},
+    "gift_nifty": {"source": "...", "url": "..."},
+    "us_markets": {"source": "...", "url": "..."},
+    "asian_markets": {"source": "...", "url": "..."},
+    "brent_crude": {"source": "...", "url": "..."},
+    "gold": {"source": "...", "url": "..."},
+    "usd_inr": {"source": "...", "url": "..."},
+    "us_10y": {"source": "...", "url": "..."}
+  }
   },
   "stories": []
 }
