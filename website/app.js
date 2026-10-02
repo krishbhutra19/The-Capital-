@@ -1,16 +1,28 @@
+function render(data){
+  const newspaper=document.querySelector("#newspaper");
+  document.title=data.edition_title||"THE CAPITAL";
+  document.querySelector("#edition").textContent=data.edition_date||"7:00 AM IST";
+  newspaper.innerHTML=dashboard(data.dashboard||{})+renderStories(data.stories||[]);
+}
 async function load(){
   const newspaper=document.querySelector("#newspaper");
+  const button=document.querySelector("#refresh");
+  const embedded=(window.__THE_CAPITAL_DATA__&&typeof window.__THE_CAPITAL_DATA__==="object")?window.__THE_CAPITAL_DATA__:null;
+  if(embedded) render(embedded);
+
+  if(button) button.textContent="REFRESHING…";
   try{
     const r=await fetch("data/latest.json?ts="+Date.now(),{cache:"no-store"});
     if(!r.ok) throw new Error("Data request failed: "+r.status);
     const d=await r.json();
-    const data=(window.__THE_CAPITAL_DATA__&&typeof window.__THE_CAPITAL_DATA__==="object")?window.__THE_CAPITAL_DATA__:d;
-    document.title=data.edition_title||"THE CAPITAL";
-    document.querySelector("#edition").textContent=data.edition_date||"7:00 AM IST";
-    newspaper.innerHTML=dashboard(data.dashboard||{})+renderStories(data.stories||[]);
+    if(d&&typeof d==="object") render(d);
   }catch(e){
     console.error(e);
-    newspaper.innerHTML="<p class='error'>Today's edition is temporarily unavailable. Please refresh in a moment.</p>";
+    if(!embedded){
+      newspaper.innerHTML="<p class='error'>Today's edition is temporarily unavailable. Please refresh in a moment.</p>";
+    }
+  }finally{
+    if(button) button.textContent="REFRESH";
   }
 }
 function dashboard(d){
@@ -75,10 +87,8 @@ function renderStories(stories){
 }
 function story(s){
   return "<article class='story'><div class='tag'>"+esc(s.importance||"medium")+" · "+esc(s.source||"")+"</div><h2>"+esc(s.headline||"")+
-    "</h2><div class='meta'>"+esc(s.published_at||"")+"</div>"+
-    section("WHAT HAPPENED",s.what_happened)+section("WHY IT MATTERS",s.why_it_matters)+
-    section("WHAT TO WATCH TODAY",s.what_to_watch_today)+section("MARKET / BUSINESS IMPACT",s.market_business_impact)+
-    deepDive(s)+"<div class='source'><a href='"+escAttr(s.source_url||"#")+"' target='_blank' rel='noopener'>ORIGINAL SOURCE →</a></div></article>";
+    "</h2><div class='meta'>"+esc(s.published_at||"")+"</div>"+deepDive(s)+
+    "<div class='source'><a href='"+escAttr(s.source_url||"#")+"' target='_blank' rel='noopener'>ORIGINAL SOURCE →</a></div></article>";
 }
 function deepDive(s){
   const modern = s.news_brief || s.business_context || s.market_context || s.editors_read;
@@ -99,5 +109,5 @@ function esc(x){
   });
 }
 function escAttr(x){return esc(x).replace(/javascript:/gi,"")}
-document.querySelector("#refresh").addEventListener("click",function(){load()});
+document.querySelector("#refresh").addEventListener("click",load);
 load();
