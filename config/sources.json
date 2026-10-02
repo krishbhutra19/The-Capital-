@@ -49,6 +49,51 @@
       "name": "Financial Markets",
       "category": "Financial Markets",
       "url": "https://news.google.com/rss/search?q=financial+markets+bonds+equities+credit+commodities+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Indian Regulation",
+      "category": "Government & Regulation",
+      "url": "https://news.google.com/rss/search?q=India+government+SEBI+RBI+regulation+policy+when%3A24h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "Indian Startup Deals",
+      "category": "Startups & VC",
+      "url": "https://news.google.com/rss/search?q=India+startup+funding+M%26A+acquisition+private+equity+when%3A24h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "India Emerging Sectors",
+      "category": "Emerging Sectors",
+      "url": "https://news.google.com/rss/search?q=India+defence+tech+space+aerospace+deeptech+semiconductor+energy+EV+battery+when%3A24h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "Marketing & Business Ideas",
+      "category": "Marketing & Business",
+      "url": "https://news.google.com/rss/search?q=marketing+campaign+product+launch+pricing+distribution+AI+marketing+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Macro & Geopolitics",
+      "category": "Macro & Geopolitics",
+      "url": "https://news.google.com/rss/search?q=US+China+Iran+Russia+oil+tariffs+sanctions+trade+war+geopolitics+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "US Markets",
+      "category": "US Markets",
+      "url": "https://news.google.com/rss/search?q=S%26P+500+Nasdaq+Dow+US+stocks+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Asia Markets",
+      "category": "Asia Markets",
+      "url": "https://news.google.com/rss/search?q=Nikkei+Hang+Seng+Shanghai+Asia+stocks+markets+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Gold & Commodities",
+      "category": "Commodities",
+      "url": "https://news.google.com/rss/search?q=gold+prices+Brent+crude+commodities+when%3A24h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "USD INR",
+      "category": "Currencies",
+      "url": "https://news.google.com/rss/search?q=USD+INR+rupee+dollar+currency+when%3A24h&hl=en-IN&gl=IN&ceid=IN%3Aen"
     }
   ]
 }
