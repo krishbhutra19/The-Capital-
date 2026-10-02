@@ -4,9 +4,10 @@ async function load(){
     const r=await fetch("data/latest.json?ts="+Date.now(),{cache:"no-store"});
     if(!r.ok) throw new Error("Data request failed: "+r.status);
     const d=await r.json();
-    document.title=d.edition_title||"THE CAPITAL";
-    document.querySelector("#edition").textContent=d.edition_date||"7:00 AM IST";
-    newspaper.innerHTML=dashboard(d.dashboard||{})+renderStories(d.stories||[]);
+    const data=(window.__THE_CAPITAL_DATA__&&typeof window.__THE_CAPITAL_DATA__==="object")?window.__THE_CAPITAL_DATA__:d;
+    document.title=data.edition_title||"THE CAPITAL";
+    document.querySelector("#edition").textContent=data.edition_date||"7:00 AM IST";
+    newspaper.innerHTML=dashboard(data.dashboard||{})+renderStories(data.stories||[]);
   }catch(e){
     console.error(e);
     newspaper.innerHTML="<p class='error'>Today's edition is temporarily unavailable. Please refresh in a moment.</p>";
