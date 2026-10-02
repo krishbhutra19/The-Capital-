@@ -31,6 +31,26 @@ for model in models:
                 dashboard.setdefault(key, "Not available from today's source set")
             dashboard.setdefault("key_events", [])
             dashboard.setdefault("three_market_movers", [])
+            default_sources = {
+                "nifty_previous_close": {"source": "Google Finance", "url": "https://www.google.com/finance/quote/NIFTY_50:INDEXNSE"},
+                "sensex_previous_close": {"source": "Google Finance", "url": "https://www.google.com/finance/quote/SENSEX:INDEXBOM"},
+                "gift_nifty": {"source": "Google Finance", "url": "https://www.google.com/finance/"},
+                "us_markets": {"source": "Google Finance", "url": "https://www.google.com/finance/"},
+                "asian_markets": {"source": "Google Finance", "url": "https://www.google.com/finance/"},
+                "brent_crude": {"source": "Google Finance", "url": "https://www.google.com/finance/quote/BZ:NYMEX"},
+                "gold": {"source": "All India Bullion", "url": "https://allindiabullion.com/benchmark"},
+                "usd_inr": {"source": "Google Finance", "url": "https://www.google.com/finance/quote/USD-INR"},
+                "us_10y": {"source": "Google Finance", "url": "https://www.google.com/finance/"}
+            }
+            sources = dashboard.get("dashboard_sources") or {}
+            for key, fallback in default_sources.items():
+                value = sources.get(key)
+                if not isinstance(value, dict):
+                    sources[key] = fallback
+                else:
+                    value.setdefault("source", fallback["source"])
+                    value.setdefault("url", fallback["url"])
+            dashboard["dashboard_sources"] = sources
             result["dashboard"] = dashboard
             result["edition_title"] = result.get("edition_title") or "THE CAPITAL — 7:00 AM IST"
             result["ai_enabled"] = True
