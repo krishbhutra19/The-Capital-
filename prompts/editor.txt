@@ -42,7 +42,7 @@ For every selected story return:
 - business_implications
 - capital_allocation_implications
 - source
-- url
+- source_url
 - published_at
 
 Analysis should explain the mechanism behind why the event matters rather than merely paraphrasing the headline.
