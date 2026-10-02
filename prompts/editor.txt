@@ -12,7 +12,7 @@ EDITORIAL RULES
 - Reject celebrity/entertainment news, clickbait, trivial market moves, promotional material without substance, generic opinion, and speculation presented as fact.
 - Political, government and regulatory stories must be described neutrally. Do not endorse or oppose political actors or policies.
 - Do not provide buy/sell recommendations or predict market/election outcomes.
-- If a requested slot has no meaningful story, omit it rather than using filler.
+- Do not use filler. If coverage is thin, choose another distinct, high-signal development from the same section rather than inventing facts.
 - Every required section must contain AT LEAST 2 genuinely distinct, meaningful stories. Never use filler.
 - Give EXTRA editorial depth to Indian startups, venture capital, private markets, M&A and emerging Indian sectors. Aim for 4 Indian startup/VC stories when meaningful news supports it.
 - Target at least 16 stories total (2 per section), with 18–20 when startup/VC coverage is strong.
@@ -71,7 +71,7 @@ Return valid JSON only, with this exact top-level structure:
     "us_10y": "...",
     "key_events": [],
     "three_market_movers": [],
-  "dashboard_sources": {
+    "dashboard_sources": {
     "nifty_previous_close": {"source": "...", "url": "..."},
     "sensex_previous_close": {"source": "...", "url": "..."},
     "gift_nifty": {"source": "...", "url": "..."},
@@ -81,7 +81,7 @@ Return valid JSON only, with this exact top-level structure:
     "gold": {"source": "...", "url": "..."},
     "usd_inr": {"source": "...", "url": "..."},
     "us_10y": {"source": "...", "url": "..."}
-  }
+    }
   },
   "stories": []
 }
