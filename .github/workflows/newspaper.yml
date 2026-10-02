@@ -39,6 +39,15 @@ jobs:
           mkdir -p site/data
           cp website/index.html website/style.css website/app.js website/manifest.json site/
           cp data/latest.json site/data/latest.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path("data/latest.json").read_text())
+          Path("site/edition-data.js").write_text(
+              "window.__THE_CAPITAL_DATA__ = " + json.dumps(data, ensure_ascii=False) + ";\n",
+              encoding="utf-8"
+          )
+          PY
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
