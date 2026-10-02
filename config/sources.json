@@ -1,0 +1,54 @@
+{
+  "feeds": [
+    {
+      "name": "India Business",
+      "category": "India",
+      "url": "https://news.google.com/rss/search?q=business+India+when%3A12h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "Indian Economy",
+      "category": "Macroeconomics",
+      "url": "https://news.google.com/rss/search?q=India+economy+RBI+inflation+interest+rates+when%3A12h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "Indian Startups",
+      "category": "Startups & VC",
+      "url": "https://news.google.com/rss/search?q=India+startup+funding+venture+capital+when%3A12h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "India PE & M&A",
+      "category": "PE & M&A",
+      "url": "https://news.google.com/rss/search?q=India+private+equity+M%26A+acquisition+when%3A12h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+    },
+    {
+      "name": "Global Business",
+      "category": "Global",
+      "url": "https://news.google.com/rss/search?q=global+business+companies+markets+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Global Macro",
+      "category": "Macroeconomics",
+      "url": "https://news.google.com/rss/search?q=global+economy+central+banks+inflation+interest+rates+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Global Startups & VC",
+      "category": "Startups & VC",
+      "url": "https://news.google.com/rss/search?q=startup+funding+venture+capital+AI+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Global PE & M&A",
+      "category": "PE & M&A",
+      "url": "https://news.google.com/rss/search?q=private+equity+M%26A+acquisition+deal+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "AI & Emerging Sectors",
+      "category": "AI & Emerging",
+      "url": "https://news.google.com/rss/search?q=AI+semiconductors+energy+climate+biotech+emerging+technology+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    },
+    {
+      "name": "Financial Markets",
+      "category": "Financial Markets",
+      "url": "https://news.google.com/rss/search?q=financial+markets+bonds+equities+credit+commodities+when%3A12h&hl=en-US&gl=US&ceid=US%3Aen"
+    }
+  ]
+}
