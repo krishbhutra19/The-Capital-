@@ -12,12 +12,12 @@ if not api_key:
     raise RuntimeError("GEMINI_API_KEY is not configured. Add it as a GitHub Actions repository secret.")
 
 client = genai.Client(api_key=api_key)
-models = [os.environ.get("GEMINI_MODEL") or "gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite"]
+models = [os.environ.get("GEMINI_MODEL") or "gemini-3.5-flash-lite", "gemini-3.5-flash"]
 models = list(dict.fromkeys(models))
 payload = json.dumps(news["items"], ensure_ascii=False)
 last_error = None
 for model in models:
-    for attempt in range(3):
+    for attempt in range(2):
         try:
             response = client.models.generate_content(model=model, contents=prompt + "\n\nCANDIDATE ARTICLES:\n" + payload)
             raw = response.text.strip()
@@ -42,5 +42,5 @@ for model in models:
         except Exception as exc:
             last_error = exc
             print(f"Gemini attempt failed: model={model}, attempt={attempt+1}, error={exc}")
-            time.sleep(5 * (attempt + 1))
+            time.sleep(8 * (attempt + 1))
 raise RuntimeError(f"Gemini analysis failed after retries: {last_error}")
