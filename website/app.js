@@ -78,7 +78,19 @@ function story(s){
     "</h2><div class='meta'>"+esc(s.published_at||"")+"</div>"+
     section("WHAT HAPPENED",s.what_happened)+section("WHY IT MATTERS",s.why_it_matters)+
     section("WHAT TO WATCH TODAY",s.what_to_watch_today)+section("MARKET / BUSINESS IMPACT",s.market_business_impact)+
-    "<div class='source'><a href='"+escAttr(s.source_url||"#")+"' target='_blank' rel='noopener'>ORIGINAL SOURCE →</a></div></article>";
+    deepDive(s)+"<div class='source'><a href='"+escAttr(s.source_url||"#")+"' target='_blank' rel='noopener'>ORIGINAL SOURCE →</a></div></article>";
+}
+function deepDive(s){
+  const modern = s.news_brief || s.business_context || s.market_context || s.editors_read;
+  if(!modern){
+    return section("WHAT HAPPENED",s.what_happened)+section("WHY IT MATTERS",s.why_it_matters)+section("WHAT TO WATCH TODAY",s.what_to_watch_today)+section("MARKET / BUSINESS IMPACT",s.market_business_impact);
+  }
+  return "<div class='deep-dive'>"+
+    section("THE NEWS",s.news_brief)+
+    section("THE BUSINESS",s.business_context)+
+    section("THE MARKET",s.market_context)+
+    section("THE EDITOR'S READ",s.editors_read)+
+    "</div>";
 }
 function section(label,value){return "<div class='label'>"+label+"</div><p>"+esc(value)+"</p>"}
 function esc(x){
