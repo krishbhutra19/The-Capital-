@@ -1,0 +1,60 @@
+{
+  "recorded_at": "2026-10-02T00:00:00+00:00",
+  "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
+  "metrics": {
+    "nifty_previous_close": {
+      "value": "22,421.95",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5ENSEI/history/",
+      "recorded_date": "2026-10-01"
+    },
+    "sensex_previous_close": {
+      "value": "71,909.70",
+      "source": "Morningstar India",
+      "url": "https://www.morningstar.in/webcontrols/indexreturns/indexreturncomponentdata.aspx?id=bse&period=D1",
+      "recorded_date": "2026-10-01"
+    },
+    "gift_nifty": {
+      "value": "22,624.50",
+      "source": "Upstox",
+      "url": "https://upstox.com/gift-nifty/",
+      "recorded_date": "2026-10-02"
+    },
+    "us_markets": {
+      "value": "S&P 500 7,722.72; Nasdaq 27,188.73",
+      "source": "Yahoo Finance / Upstox",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/",
+      "recorded_date": "2026-10-02"
+    },
+    "asian_markets": {
+      "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
+      "recorded_date": "2026-10-02"
+    },
+    "brent_crude": {
+      "value": "$102.25/bbl",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/commodities/brent-oil-historical-data",
+      "recorded_date": "2026-10-02"
+    },
+    "gold": {
+      "value": "$4,140.06/oz",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/",
+      "recorded_date": "2026-10-02"
+    },
+    "usd_inr": {
+      "value": "₹96.325/$",
+      "source": "Investing.com",
+      "url": "https://ca.investing.com/currencies/usd-inr-historical-data",
+      "recorded_date": "2026-10-02"
+    },
+    "us_10y": {
+      "value": "5.24%",
+      "source": "U.S. Federal Reserve",
+      "url": "https://www.federalreserve.gov/releases/h15/",
+      "recorded_date": "2026-10-01"
+    }
+  }
+}
