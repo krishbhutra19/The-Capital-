@@ -43,7 +43,9 @@ function dashboard(d){
       const s=src[m[2]]||{};
       const url=s.url||defaultSource(m[2]);
       const label=s.source||defaultLabel(m[2]);
-      return "<div class='metric'><span>"+esc(m[0])+"</span><strong>"+esc(m[1])+"</strong><a href='"+escAttr(url)+"' target='_blank' rel='noopener'>SOURCE: "+esc(label)+" →</a></div>";
+      const freshness=(d.dashboard_freshness||{})[m[2]]||{};
+      const status=freshness.status==="last_recorded" ? "<em class='metric-status'>LAST RECORDED</em>" : "";
+      return "<div class='metric'><span>"+esc(m[0])+"</span><strong>"+esc(m[1])+"</strong>"+status+"<a href='"+escAttr(url)+"' target='_blank' rel='noopener'>SOURCE: "+esc(label)+" →</a></div>";
     }).join("")+
     "</div><div class='dashboard-grid'><div><div class='label'>TODAY'S KEY EVENTS</div><ul>"+
     (d.key_events||[]).map(function(x){return "<li>"+esc(x)+"</li>"}).join("")+
