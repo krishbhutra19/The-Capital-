@@ -174,13 +174,13 @@ for model in models:
                 if freshness.get(key, {}).get("status") == "last_recorded":
                     old_source = previous_sources.get(key)
                     snap_source = snapshot_metrics.get(key) or {}
-                    if isinstance(old_source, dict) and old_source.get("url"):
-                        sources[key] = old_source
-                    elif isinstance(snap_source, dict) and snap_source.get("url"):
+                    if isinstance(snap_source, dict) and snap_source.get("url"):
                         sources[key] = {
                             "source": snap_source.get("source") or fallback["source"],
                             "url": snap_source.get("url") or fallback["url"]
                         }
+                    elif isinstance(old_source, dict) and old_source.get("url"):
+                        sources[key] = old_source
             dashboard["dashboard_sources"] = sources
             dashboard["dashboard_freshness"] = freshness
 
