@@ -82,7 +82,7 @@ for model in models:
                 text = str(value).strip()
                 if len(text) > 90:
                     return False
-                numbers = re.findall(r"\\d[\\d,]*(?:\\.\\d+)?", text)
+                numbers = re.findall(r"\d[\d,]*(?:\.\d+)?", text)
                 if not numbers:
                     return False
                 if key in {"us_markets", "asian_markets"} and len(numbers) < 2:
