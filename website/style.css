@@ -14,3 +14,16 @@
 .deep-dive p{
   margin:5px 0 0;
 }
+
+/* Clearly distinguish carried-forward market observations */
+.metric-status{
+  display:inline-block;
+  margin:4px 0 2px;
+  font-family:Arial,sans-serif;
+  font-size:.62rem;
+  letter-spacing:.08em;
+  font-style:normal;
+  font-weight:700;
+  border:1px solid currentColor;
+  padding:2px 5px;
+}
