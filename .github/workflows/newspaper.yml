@@ -33,6 +33,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          PREVIOUS_EDITION_URL: https://krishbhutra19.github.io/The-Capital-/data/latest.json
         run: python news_engine/analyze.py
       - name: Assemble website
         run: |
