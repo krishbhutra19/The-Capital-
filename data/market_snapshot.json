@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-04T06:36:05.388252+00:00",
+  "recorded_at": "2026-10-05T01:38:46.971238+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -22,14 +22,14 @@
     },
     "us_markets": {
       "value": "S&P 500 7,722.72; Nasdaq 27,188.73",
-      "source": "The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TU2hDbFpJUTNfNTZnOEtKNGpFVEppc05XNFNCNl8tMzIzNk9QZno1LUVOLXRfTllTR3F6VWxsVzZQbWJZWnhVQjFsLTRheFF3",
+      "source": "Yahoo Finance / Upstox",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/",
       "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
@@ -45,10 +45,10 @@
       "recorded_date": "previous edition"
     },
     "usd_inr": {
-      "value": "₹96.325/$",
-      "source": "The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlkRl9wN3p2SExISzlMTm85ODlVR0Y0RFNaaGdpdnIzTkIxdEtfMHVFbnVFaDNkdlVtcm9CTzhDZC1xSkpxUE5KNWtVWlFzUmtubzY4TVRMNXBZa25XaTdjWlFDbWVSTEQwZVFna2dqY3pJQUFFbFdmRUJjYUFkM2xSR1pPOGpnaWY5d3ZrZDNHN3VEWDJHa2xpSXhsamJqazdaWURyR3doR3RNeDRUcFZpZHRVQjk0YUhwNk5YR1pFd9IBxgFBVV95cUxNeThWRlRTcWstOGVHZmhvLUJxdGVwUkc0VkZ0UnFHaWthTWtiQlUwc0Qwc3lrbU5kRXVMNmVZYzV3V2h3eHFuSVdXT0dTODdER2VWbDQ4ZWJ1VHkzUHpsZXRPbmhXYkQxa1lNdG00WnF5dzZKaGxRR0prQnJ4V0pIMGJaRGlpT25tOERPT2VjRl84ZGM1UjdCdVZ5YlAzTm5CcS1FSkRGSjRhSXIxcl9YaDFvTUVfZG9IRmNyNjJob2pOdm90TVE?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Touched all-time low of Rs. 95.23 amid oil rally and Fed uncertainty",
+      "source": "Goodreturns",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRUg0aENPN2pocEV6a2MycHVzektkaV9GNTl0NVNUWnpPS0o2dW1CYmdTR2I1NzU0RmdXc2ZmSXN3X2d3Yk93WGxHSGZRSUhwQ3hib0ljc0FyVnBUNktQVExQY2l5WHhnR3RxN0d4WTdtS2NxaWVkT0UzM2FWNldLcE94bG4tRloyZVgzQjIxTU1CRnU4eFAwbDlxcVY5VVdhbWcta2lTU1lWSXRQLUktSFB0V0twUEZNQUN2Tmg1c3pnYXItdkZnS1dYTzNhYXhORWR6ckxB?oc=5",
+      "recorded_date": "October 5, 2026"
     },
     "us_10y": {
       "value": "5.24%",
