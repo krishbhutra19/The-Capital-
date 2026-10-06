@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-05T01:38:46.971238+00:00",
+  "recorded_at": "2026-10-06T01:37:15.788705+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -22,39 +22,39 @@
     },
     "us_markets": {
       "value": "S&P 500 7,722.72; Nasdaq 27,188.73",
-      "source": "Yahoo Finance / Upstox",
-      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/",
+      "source": "The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TU2hDbFpJUTNfNTZnOEtKNGpFVEppc05XNFNCNl8tMzIzNk9QZno1LUVOLXRfTllTR3F6VWxsVzZQbWJZWnhVQjFsLTRheFF3",
       "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "Baystreet.ca",
-      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$102.25/bbl",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/commodities/brent-oil-historical-data",
-      "recorded_date": "previous edition"
+      "value": "Stuck in $95–$103 range",
+      "source": "Gold & Commodities",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmJ6YzF3ZERBZUtYT0p3LU9aU1FSOTdZUlVCeU1hdy1fanY5VDRXRDJIZVVkMGxlSmUwdGhxajAzeFJSMm1UTEFFOG1QZkFzU2xtRGN4R3QzNFp0VXRwQnBSelVOc0tPekY3NnJVdUdLa3ZvcWRWVDZvSEdJamRXQU9SMTVHN2FSZDhVajhRN0Eyd1dEQ25vMUpJQlItZ3IyRnVzalNwWnJ0akZUR1F6cWI2UmVWNkFiZEIxSA?oc=5",
+      "recorded_date": "October 6, 2026"
     },
     "gold": {
-      "value": "$4,140.06/oz",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/gold-slips-before-us-payrolls-data-set-second-weekly-loss-2026-10-02/",
-      "recorded_date": "previous edition"
+      "value": "XAU/USD at $4,158, capped below $4,230",
+      "source": "Gold & Commodities",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkRrSHBvRmdWeWxWbWdRUkpjOWVNUmtBYzF5bjlIWFhhVU5ZTGEtaEtLOFc2MzNheVB6U3Z1LVNVQ2NIVldPUVJxWUNvZ29ubkJKdE9HU0V0RDU2M2d4MXVXaExKd19BSDNKaVczTVMwYUVwdUtvVzZSNS1sRDZLbXZR?oc=5",
+      "recorded_date": "October 6, 2026"
     },
     "usd_inr": {
       "value": "Touched all-time low of Rs. 95.23 amid oil rally and Fed uncertainty",
       "source": "Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRUg0aENPN2pocEV6a2MycHVzektkaV9GNTl0NVNUWnpPS0o2dW1CYmdTR2I1NzU0RmdXc2ZmSXN3X2d3Yk93WGxHSGZRSUhwQ3hib0ljc0FyVnBUNktQVExQY2l5WHhnR3RxN0d4WTdtS2NxaWVkT0UzM2FWNldLcE94bG4tRloyZVgzQjIxTU1CRnU4eFAwbDlxcVY5VVdhbWcta2lTU1lWSXRQLUktSFB0V0twUEZNQUN2Tmg1c3pnYXItdkZnS1dYTzNhYXhORWR6ckxB?oc=5",
-      "recorded_date": "October 5, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
-      "value": "5.24%",
-      "source": "U.S. Federal Reserve",
-      "url": "https://www.federalreserve.gov/releases/h15/",
-      "recorded_date": "previous edition"
+      "value": "5.28% (Scale multi-year/32-year highs as inflation fears and debt pressure return)",
+      "source": "Global Macro",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmFPajlvQUZaSWVTRkdRWldEcG8za3lkcDhqbi1Ud1dudG5HaXpscV80ajM3Zy1abU5yeE1GVXdlcjczN01BSExCb0FDa3g5UDhFWmMxRWMzaEMyNjhtd2NsQXBmRzFHUXZEVzI1YVVOUmVJUkV3cTFfSWZibVRGd0dyZ2ZyS3N2d0xTelVn?oc=5",
+      "recorded_date": "October 6, 2026"
     }
   }
 }
