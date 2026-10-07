@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-06T01:37:15.788705+00:00",
+  "recorded_at": "2026-10-07T01:39:51.268373+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -21,28 +21,28 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "S&P 500 7,722.72; Nasdaq 27,188.73",
-      "source": "The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TU2hDbFpJUTNfNTZnOEtKNGpFVEppc05XNFNCNl8tMzIzNk9QZno1LUVOLXRfTllTR3F6VWxsVzZQbWJZWnhVQjFsLTRheFF3",
-      "recorded_date": "previous edition"
+      "value": "S&P 500 and Nasdaq Close at Record Highs; Dow Gains 253 Points",
+      "source": "BigGo Finance / US Markets",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YT3VFLTlza0pEeDVHYm1EQkJ6cktPZ1RKaE00dTRzUUtSNjA2QTc5UTBqN0RjMjRRT2NIaGxDWGxYV1h6c2t6bVJPcVNUOVcza0w1YTJoaDFueXNwNllNR25RbVBqYWlZbFBtRmJ3TlNIVUtlZWc?oc=5",
+      "recorded_date": "October 7, 2026"
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "Stuck in $95–$103 range",
-      "source": "Gold & Commodities",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmJ6YzF3ZERBZUtYT0p3LU9aU1FSOTdZUlVCeU1hdy1fanY5VDRXRDJIZVVkMGxlSmUwdGhxajAzeFJSMm1UTEFFOG1QZkFzU2xtRGN4R3QzNFp0VXRwQnBSelVOc0tPekY3NnJVdUdLa3ZvcWRWVDZvSEdJamRXQU9SMTVHN2FSZDhVajhRN0Eyd1dEQ25vMUpJQlItZ3IyRnVzalNwWnJ0akZUR1F6cWI2UmVWNkFiZEIxSA?oc=5",
-      "recorded_date": "October 6, 2026"
+      "value": "Holds near $100 amid Middle East supply jitters and Hormuz attacks",
+      "source": "investingLive",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjdzMzlrQlh6T0xIeVg5YS1iaS1ZWG5fbDBsTTJBVU1wR0ZXNkJjM0lheG01N0s0U2RiQWl4a3lrekhTcmdVRmFFOEo0aEJuVnYyTWN4cTJ1ZVFiclZsc3NhZ1R3ZFVOZ0tEMWZpZ3czQncwVEZvRmRlNkg0T2xRbjY4RFRsMlVMT3R1N3BjcUY3NGhUSVRyNzZQTjFRdjUyVWllV2E0RUJBMU5XN2J2UTFBaXM?oc=5",
+      "recorded_date": "October 7, 2026"
     },
     "gold": {
       "value": "XAU/USD at $4,158, capped below $4,230",
       "source": "Gold & Commodities",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkRrSHBvRmdWeWxWbWdRUkpjOWVNUmtBYzF5bjlIWFhhVU5ZTGEtaEtLOFc2MzNheVB6U3Z1LVNVQ2NIVldPUVJxWUNvZ29ubkJKdE9HU0V0RDU2M2d4MXVXaExKd19BSDNKaVczTVMwYUVwdUtvVzZSNS1sRDZLbXZR?oc=5",
-      "recorded_date": "October 6, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "Touched all-time low of Rs. 95.23 amid oil rally and Fed uncertainty",
@@ -54,7 +54,7 @@
       "value": "5.28% (Scale multi-year/32-year highs as inflation fears and debt pressure return)",
       "source": "Global Macro",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmFPajlvQUZaSWVTRkdRWldEcG8za3lkcDhqbi1Ud1dudG5HaXpscV80ajM3Zy1abU5yeE1GVXdlcjczN01BSExCb0FDa3g5UDhFWmMxRWMzaEMyNjhtd2NsQXBmRzFHUXZEVzI1YVVOUmVJUkV3cTFfSWZibVRGd0dyZ2ZyS3N2d0xTelVn?oc=5",
-      "recorded_date": "October 6, 2026"
+      "recorded_date": "previous edition"
     }
   }
 }
