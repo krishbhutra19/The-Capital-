@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-08T01:39:49.962623+00:00",
+  "recorded_at": "2026-10-09T01:43:56.655503+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -28,15 +28,15 @@
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "$101.00",
       "source": "CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNDRIOHVNQk8yb2pHV2pRN05wQnFoOWVMVUhVNlVYUHFJOE0wcUtGdkhKRk1INWdWR1VpSGxDSFpuVkVndGtMVDZEdU1DRzhwamJ5VzdEMHFwaFR1cWlvZG5sU0oxZl9lb09zZGZIUVhqMnVJaU1zMG5jdTd3QzR4NzNOSEJobzY3VlNWR1BmVndvbEFxbHU0cVVDZ1loNHJONEdBUGlaWVpma1RBVEJGTVd4NnZMN0w0NUk2WGtZNGp2MjhrdV84UVV6M3E3Sk9YRkRvNl90SHYyRl9WSUl5d25FRU5KNlIzdTRmSDBHZ2tRN1HSAfgBQVVfeXFMTUNXTndMRkRSLWxtaVc4UVpvQ2Zyb19XMGFpdUM0RHZUbUsyU2czOVRqdlNuQWV2dTdHbDRDQ1N4OGxGY2RaaHNVN3JJWnNhNTJHWTAxcjhncWZHdElrTVFmdDU0WDEzUEgxMlZUdGg1bjJxMExZTnNiN3hBQmcxOEN2U0NvMF9IbUtwSzFEZkE0R0M5UGdwS2FQOFJESWgxeHBsYlFJLTRjQmdINUN4ZVgzYzFCQVNFVHBtcFVURHdTazAtcTd0WnVhY3JySjREVjhWTjY4YmRDOUE3UFV2LTVsMTZ3UllURHJXeWtXZTFQaW9UdHM0NXA?oc=5",
-      "recorded_date": "October 8, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "XAU/USD at $4,158, capped below $4,230",
