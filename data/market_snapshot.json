@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-11T01:39:37.851702+00:00",
+  "recorded_at": "2026-10-12T01:42:29.963022+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -9,10 +9,10 @@
       "recorded_date": "previous edition"
     },
     "sensex_previous_close": {
-      "value": "71,909.70",
-      "source": "Morningstar India",
-      "url": "https://www.morningstar.in/webcontrols/indexreturns/indexreturncomponentdata.aspx?id=bse&period=D1",
-      "recorded_date": "previous edition"
+      "value": "72,638.70",
+      "source": "BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5",
+      "recorded_date": "October 12, 2026"
     },
     "gift_nifty": {
       "value": "22,624.50",
@@ -28,21 +28,21 @@
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "Baystreet.ca",
-      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$101.00",
-      "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNDRIOHVNQk8yb2pHV2pRN05wQnFoOWVMVUhVNlVYUHFJOE0wcUtGdkhKRk1INWdWR1VpSGxDSFpuVkVndGtMVDZEdU1DRzhwamJ5VzdEMHFwaFR1cWlvZG5sU0oxZl9lb09zZGZIUVhqMnVJaU1zMG5jdTd3QzR4NzNOSEJobzY3VlNWR1BmVndvbEFxbHU0cVVDZ1loNHJONEdBUGlaWVpma1RBVEJGTVd4NnZMN0w0NUk2WGtZNGp2MjhrdV84UVV6M3E3Sk9YRkRvNl90SHYyRl9WSUl5d25FRU5KNlIzdTRmSDBHZ2tRN1HSAfgBQVVfeXFMTUNXTndMRkRSLWxtaVc4UVpvQ2Zyb19XMGFpdUM0RHZUbUsyU2czOVRqdlNuQWV2dTdHbDRDQ1N4OGxGY2RaaHNVN3JJWnNhNTJHWTAxcjhncWZHdElrTVFmdDU0WDEzUEgxMlZUdGg1bjJxMExZTnNiN3hBQmcxOEN2U0NvMF9IbUtwSzFEZkE0R0M5UGdwS2FQOFJESWgxeHBsYlFJLTRjQmdINUN4ZVgzYzFCQVNFVHBtcFVURHdTazAtcTd0WnVhY3JySjREVjhWTjY4YmRDOUE3UFV2LTVsMTZ3UllURHJXeWtXZTFQaW9UdHM0NXA?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Near $104 - $105 per barrel",
+      "source": "NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdk84aFhEYkJRekQ4UVFJNVlTY1NmWlVZdW1LUE9Hb0ktZ1gwdzU4SXpNeWx2bmYtRDhvR01tZnlfS0ZzeE1FWDJ1NTZSMzQ5aG05bXlGMXFzM2xpT1FiUmxCbWc1VHR2QjNRczEza0pfN0pUZG1SeXd6c2FfSVF0bkdBNUJmOHA3cVIxSXJpZnVfRkU3TG1zQ09FWjhmZUFwVEpIdHpvVU5MTEFSelF4c2NXLW5LUHl4dzF1RjV0Y2ZxTGdReXNRSjBtRDJfVFZQWTFjSjRoNHIyejJxeUM5Ry1xN25pMkJBengzeFl5WVpNa1RZVHN0cTMxNFpvSExiTjhNNmZtVdIBjwJBVV95cUxNSHJ0ZWtSM29wVU4wM2tmaU5ITmpDZTZ5ZmFmRkVRbW15QVk2VzBUVGd3SE14U0N2c3ZZbE1kYnkyZm00eWZPdmtWUFo2R2x0REVlQjl4RmRFY1RBLUdRSzZvaHh6LUoyUWJjYzYwTzVSTWhNTmFxOURYZzZObFlNbFlXUlBqajdGUEowczRMRHlTa3VfVkJBVEM0a1ZMeXEtWVJRZUpiYU1vSUdXUHVTUXZfRTNtTXBkdDJMRTRYRWxGYWNOaTQ1U1g0Q0FhT040V1dxTFYwZjI5Vk9FbnF6UG5pT1RIQmNzRENxZktKbVh1cEFnNmJJczdyM1NDdHUyTU94RzdvVlhNSk9SejJV?oc=5",
+      "recorded_date": "October 12, 2026"
     },
     "gold": {
-      "value": "XAU/USD at $4,158, capped below $4,230",
-      "source": "Gold & Commodities",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkRrSHBvRmdWeWxWbWdRUkpjOWVNUmtBYzF5bjlIWFhhVU5ZTGEtaEtLOFc2MzNheVB6U3Z1LVNVQ2NIVldPUVJxWUNvZ29ubkJKdE9HU0V0RDU2M2d4MXVXaExKd19BSDNKaVczTVMwYUVwdUtvVzZSNS1sRDZLbXZR?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Edges near $4,200 per ounce",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWpGTHVzbXI2c2lWMTBQZ0ozXzZCMGsyV0tUWThOV2RzcHlnZ0dVc3Q2MVU4b1VXb1ZzbXY1QWpjZ3ZBZUtGXzFOcznnTG93X3RHMTRVaGc1Yi1xcHRkQTMtVTM3MWVjbHkxbERkbU1hcXk4SVlwajhjQWVtNGM4TE9aRzVLendnb2RsbnVDdUlQMXd2cFRZVTAxMnZIRUk5LXctV0NhTEJIUElZZ0VvTkYzRHFNeDlXb3QwT0NJdHpFSGJJSlE?oc=5",
+      "recorded_date": "October 12, 2026"
     },
     "usd_inr": {
       "value": "Touched all-time low of Rs. 95.23 amid oil rally and Fed uncertainty",
