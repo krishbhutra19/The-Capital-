@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-12T01:42:29.963022+00:00",
+  "recorded_at": "2026-10-13T01:43:13.669540+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -12,7 +12,7 @@
       "value": "72,638.70",
       "source": "BBN Times",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5",
-      "recorded_date": "October 12, 2026"
+      "recorded_date": "previous edition"
     },
     "gift_nifty": {
       "value": "22,624.50",
@@ -28,27 +28,27 @@
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Near $104 - $105 per barrel",
       "source": "NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdk84aFhEYkJRekQ4UVFJNVlTY1NmWlVZdW1LUE9Hb0ktZ1gwdzU4SXpNeWx2bmYtRDhvR01tZnlfS0ZzeE1FWDJ1NTZSMzQ5aG05bXlGMXFzM2xpT1FiUmxCbWc1VHR2QjNRczEza0pfN0pUZG1SeXd6c2FfSVF0bkdBNUJmOHA3cVIxSXJpZnVfRkU3TG1zQ09FWjhmZUFwVEpIdHpvVU5MTEFSelF4c2NXLW5LUHl4dzF1RjV0Y2ZxTGdReXNRSjBtRDJfVFZQWTFjSjRoNHIyejJxeUM5Ry1xN25pMkJBengzeFl5WVpNa1RZVHN0cTMxNFpvSExiTjhNNmZtVdIBjwJBVV95cUxNSHJ0ZWtSM29wVU4wM2tmaU5ITmpDZTZ5ZmFmRkVRbW15QVk2VzBUVGd3SE14U0N2c3ZZbE1kYnkyZm00eWZPdmtWUFo2R2x0REVlQjl4RmRFY1RBLUdRSzZvaHh6LUoyUWJjYzYwTzVSTWhNTmFxOURYZzZObFlNbFlXUlBqajdGUEowczRMRHlTa3VfVkJBVEM0a1ZMeXEtWVJRZUpiYU1vSUdXUHVTUXZfRTNtTXBkdDJMRTRYRWxGYWNOaTQ1U1g0Q0FhT040V1dxTFYwZjI5Vk9FbnF6UG5pT1RIQmNzRENxZktKbVh1cEFnNmJJczdyM1NDdHUyTU94RzdvVlhNSk9SejJV?oc=5",
-      "recorded_date": "October 12, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Edges near $4,200 per ounce",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWpGTHVzbXI2c2lWMTBQZ0ozXzZCMGsyV0tUWThOV2RzcHlnZ0dVc3Q2MVU4b1VXb1ZzbXY1QWpjZ3ZBZUtGXzFOcznnTG93X3RHMTRVaGc1Yi1xcHRkQTMtVTM3MWVjbHkxbERkbU1hcXk4SVlwajhjQWVtNGM4TE9aRzVLendnb2RsbnVDdUlQMXd2cFRZVTAxMnZIRUk5LXctV0NhTEJIUElZZ0VvTkYzRHFNeDlXb3QwT0NJdHpFSGJJSlE?oc=5",
-      "recorded_date": "October 12, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
-      "value": "Touched all-time low of Rs. 95.23 amid oil rally and Fed uncertainty",
-      "source": "Goodreturns",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRUg0aENPN2pocEV6a2MycHVzektkaV9GNTl0NVNUWnpPS0o2dW1CYmdTR2I1NzU0RmdXc2ZmSXN3X2d3Yk93WGxHSGZRSUhwQ3hib0ljc0FyVnBUNktQVExQY2l5WHhnR3RxN0d4WTdtS2NxaWVkT0UzM2FWNldLcE94bG4tRloyZVgzQjIxTU1CRnU4eFAwbDlxcVY5VVdhbWcta2lTU1lWSXRQLUktSFB0V0twUEZNQUN2Tmg1c3pnYXItdkZnS1dYTzNhYXhORWR6ckxB?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Rupee gained 96 paise following targeted Reserve Bank of India support measures.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUZOckZsYkxzYWg2aGpGd1VFRi10UGZOam1Bel9BTzNzaXFXaGlOUDFOUWxCSExYc1RZVEZsYkhZSEltZUZtMkdmZUZmS1k4RzlxZE5KeGtISWpzcTh6UnlEbTJqaGhHNkNkOHFTVG1BOU1zZnVoSnkwRVY3TnJtY1o5dkNOdmxuVGRXTFpGN3VRNlBaS0x4a3dUYk13d3lBX3dVQzRkNnFaVmY5akRHX3dQSDBIV0psVXp6NjRmV25BbGQwbTQtUmJ4Q3d4MU1EWndBNWtyONIB3AFBVV95cUxQVVA0enhpR21WX3dXcWZqV0RQZXpuRG9HUk1XTWdaanpIRFhhbzZmMGQ5YXpkdWtHYnBnSzFLSlhVX1ZfeGhMYWhvYjR5RFE3SHExaEJpTWxnckNXdlZSSjk1c0pzRmhySkR5cVB6LWJBRE9YUHZyenU0alBoRnRLeWFzR0Fmc3BqZjNncmowODZkWjFGX3dqMzRjaDA5OEdqMHd5S3RpdGZOQXBFZlY5d0txZmdnc2lpR2N3YTRrSVpwLUpBTXI3SDFCU0NPY1pzbmxyeU4zUWdsMk5s?oc=5",
+      "recorded_date": "October 13, 2026"
     },
     "us_10y": {
       "value": "5.28% (Scale multi-year/32-year highs as inflation fears and debt pressure return)",
