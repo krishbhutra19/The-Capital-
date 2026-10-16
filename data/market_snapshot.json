@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-15T01:53:54.022630+00:00",
+  "recorded_at": "2026-10-16T01:53:29.690893+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -12,7 +12,7 @@
       "value": "72,638.70",
       "source": "BBN Times",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5",
-      "recorded_date": "October 15, 2026"
+      "recorded_date": "previous edition"
     },
     "gift_nifty": {
       "value": "22,624.50",
@@ -21,40 +21,40 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "S&P 500 and Nasdaq Close at Record Highs; Dow Gains 253 Points",
-      "source": "BigGo Finance / US Markets",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YT3VFLTlza0pEeDVHYm1EQkJ6cktPZ1RKaE00dTRzUUtSNjA2QTc5UTBqN0RjMjRRT2NIaGxDWGxYV1h6c2t6bVJPcVNUOVcza0w1YTJoaDFueXNwNllNR25RbVBqYWlZbFBtRmJ3TlNIVUtlZWc?oc=5",
-      "recorded_date": "previous edition"
+      "value": "S&P 500 up 25 pts, Nasdaq up 20 pts, Dow Jones up 556 pts (1.08%)",
+      "source": "Investing.com / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEJMQnl0SXQtbG1JbVkzY3lqWXptUmJCRlREX05MM2diUE45NEx1YlV0SVZfcm83bUVGM01YRHlrdm9kM2EwX1k4SVJpZVZfcGpxNjViaHAzNi1UeUExTjdnRVVwOUJuRWRKbVV3aWRHX2MwekMwekJBTmVTOHlmNnppOUVYNk42X3dSLURCT3VuZnUwWURuYS1MeWlsbzFzSkJQMFJCRjV3LXdpSTRmV1hNdGc5Zl94aTBMVG1ma2JvSDY3VHc",
+      "recorded_date": "October 16, 2026"
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "Baystreet.ca",
-      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
+      "source": "The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$106+",
+      "value": "~$105/bbl",
       "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQmYzcXlaWUJVMUVBUWtpN2ZRcEJEaE5kallXbEVFdkhkeEFQTjkyaDQxWUpDWndSM3l1TFV5c0FOMV9KRndYYnJVdjg3RTNlMjloS2NuX3pxdzU5VGVKRVc0eU9sSXpXMjV0QldwZTlGVmtqUUhPRzItNXoxenVSemptd3dwQWs4cHllMGF0VldLcjBmNGtyU0Q3aGVFTkdNcndQRWFLVmVCMG5fcUJ1UFB6SkNxdUNYS3BvZ3Z4aDliXzlfeGI4SXZycDd1SzJUclVkLUplQVBuaHQ3NHJ1RTUxYkpBaWw1TGtYR2I3UlJLbHNCelVnM3BR0gH_AUFVX3lxTE9yTi1oZ2dCUmlqX1B1WFh1SkdZM0ptZkNFSDJwS29pZ0Qtc2VvU3FVQWthYkRHSWhFcjA2VkNxcW9BNDNmRWg0MUhWRzFFOUpPeFpRZm11VlVqc2ctMm5hMzJyNUQxSk1veE1lOWlqTXZsZmZCWGF2YVp6dTlFTWk0R29KZDNEdGlxTU90WWpOVXRxVUlDc1pndG12eTZ3OXJORWhwOVV6Rnd0OUpTVkc4NG1IVzFPU0lBUXRmTTdiclE0bnhfbHJiZVBBTDZEdkVDOXpwZEZEQmtiZGdGRGhLaVR5UWhGMkRaTVdwQzhTSEdNSFMwX1QwSVhsbjdSWQ?oc=5",
-      "recorded_date": "previous edition"
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWkNNdU00ZzRoNkplUnZZdU9TUW00a1ZGMUdTZ2xIX01MXzFxbHE0ZjFnbHQzMlJyejZxYVJOc2UtZG5qUEFNVTFNa1JkQzhoZFFXdFdVN0xmTnpSZzFuOTNCUjNMSU13a2ZDZ0J4b2Z2cVNIS0djNnRXVkhqZ2J2b3Q3MDh4M2g1N1o1WG9EMmUwVVpETUFYUTNJeGVLUlRmUUwxNGlsWnhlai1MQ1YteURfSmhqVGt2VDB1WUR3bnktQ0ZsR3k0RHN0RmYzOE05bWxPODFFcWhXYWptNmdrUHoxTVF4Z3hYSkxsUw",
+      "recorded_date": "October 16, 2026"
     },
     "gold": {
-      "value": "Edges near $4,200 per ounce",
+      "value": "~$4,160/oz",
       "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWpGTHVzbXI2c2lWMTBQZ0ozXzZCMGsyV0tUWThOV2RzcHlnZ0dVc3Q2MVU4b1VXb1ZzbXY1QWpjZ3ZBZUtGXzFOcznnTG93X3RHMTRVaGc1Yi1xcHRkQTMtVTM3MWVjbHkxbERkbU1hcXk4SVlwajhjQWVtNGM4TE9aRzVLendnb2RsbnVDdUlQMXd2cFRZVTAxMnZIRUk5LXctV0NhTEJIUElZZ0VvTkYzRHFNeDlXb3QwT0NJdHpFSGJJSlE?oc=5",
-      "recorded_date": "previous edition"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE9jd3VBclQ4RHZBNGRxSDg4MnBObGZyUTlTd3lNQnZ6RS1wNXpUeDllTHRWX094LVJRd2lsLXd0WnBDMmJhUDdzMjlyTGI0ZWdzeXo3M3NnY252Sm5aLU1fdUw4VFFlZTJSUHBUNy1MOVBFZGduTDFpQU9LUDl4OVhQVGdWWmFjVGpCNHhmUWZOaEVuQllxbVNWTDl3RXlzVG4zVmtaUmhMSy1HcFRaaVVfYmNsUDdHNlM0QTBhVWVnQm85VU5IbElRMEVfanJw",
+      "recorded_date": "October 16, 2026"
     },
     "usd_inr": {
       "value": "Rupee gains for 4th consecutive day, up 19 paise against the US dollar.",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHB0cF9Ic0JXMmdnYXNTcV9lTU9ibHA2NzZWUVpXbWZEamZFVFA3ZVY0RFhkbU1jVW12X0JTYmVuWWMxN1ZuWlBNanRVaFRXdzlaR1B6VjN4R3dpdTJLY3dwdHdlRDIycVRFWjBicW03OXJhWWRyXzZsdGVESzl5c3Eyb0hkVDE4UThBNS10b094YUtZMUlGWU1na3pVWWR3QU5BNzV1MVRvTHBSQnJ3dHF6UlNCQW9JWjI5NjkzLTcxNm9uX3E4Ty1sRdIB0AFBVV95cUxNUmxVSTRvM01OZ2RVWFd3ajBwTVV5MzVnaUp0X0d5SzBwUlE2ODNOUDhIcUdkendaOTdhOWUxTjROWDZyamdVUHVveWpzYmpIUGc0N0dpbldMWE5OZFFTalVaR0JySjlGREtCMnliLXZOcjRmN2RSaGgwZUo0aHBydldtamRRZlI3Z3cyQUpBaTFqU3M5OFU1a2RsQmdqSE9neDYtcmw1MGd3Vnc1Wkg1Wm1DSGVQRlJPN1BRTTl6Tmk3MnJOTTR5emYydGtiZ3JT?oc=5",
-      "recorded_date": "October 15, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
-      "value": "5.28% (Scale multi-year/32-year highs as inflation fears and debt pressure return)",
-      "source": "Global Macro",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmFPajlvQUZaSWVTRkdRWldEcG8za3lkcDhqbi1Ud1dudG5HaXpscV80ajM3Zy1abU5yeE1GVXdlcjczN01BSExCb0FDa3g5UDhFWmMxRWMzaEMyNjhtd2NsQXBmRzFHUXZEVzI1YVVOUmVJUkV3cTFfSWZibVRGd0dyZ2ZyS3N2d0xTelVn?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Crashed to 3-week low following record Treasury selloff",
+      "source": "The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWhwUC1iOWQ1ZGRheUdtVTdSNHlhdU1yeFJtVTlfOHZ0QUFyZWN4eEhJRmJURFJwZm45UHVqZGdTVF90T1VVWUJNSFpEaGJmeGNPTm4yY3ZoSjlpSjl3aGJ3SnV5elZMZk9GYk11QUZDN1ZjS1FWOXAtZGlJeV92UnhoOW9NZ1h1TzF5WmJSRkNOaTVobEpTLW81ZGpxVkU3c1AxdldtNmRQR1lqYzhmQVY0YU1GUUEtM2dUa25sdFlJOXN1RDVDVmw1Qk1BOGdBSE9oMmx5NHYzSnpaTUZHU0JwNWh2M0HSAe4BQVVfeXFMUDBDY3RrX2ZkQXIxWUR3N00xS3E2bGp2RHRvcGdOUy1XRWVITmV3LTAxNDJMcDFzdVdTTXNFZU14VjhSdFA5OEhhZlg2WVE3Q1VrU1NGNnhnQTlqb0VBTnhmUmtxVXkzLUdZdEFIcm5YbGdFZE1xLWktUWl5SzU2VUlyY2tkNEliUmM5SW8xeGtGallJZW94eHNTcUFqeXhTYTlWaGpQeVpWaGZSRFZ6VFhodU01c01xaGxPenhqUzM4RHRsMUJpMml6ODE1ZHpFNUMzOGNLZmlKZEZGc2kzejB4X0RQVi1hRzVRN3hyZw",
+      "recorded_date": "October 16, 2026"
     }
   }
 }
