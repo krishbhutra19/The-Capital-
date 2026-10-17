@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-16T01:53:29.690893+00:00",
+  "recorded_at": "2026-10-17T01:52:59.931182+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -24,25 +24,25 @@
       "value": "S&P 500 up 25 pts, Nasdaq up 20 pts, Dow Jones up 556 pts (1.08%)",
       "source": "Investing.com / Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEJMQnl0SXQtbG1JbVkzY3lqWXptUmJCRlREX05MM2diUE45NEx1YlV0SVZfcm83bUVGM01YRHlrdm9kM2EwX1k4SVJpZVZfcGpxNjViaHAzNi1UeUExTjdnRVVwOUJuRWRKbVV3aWRHX2MwekMwekJBTmVTOHlmNnppOUVYNk42X3dSLURCT3VuZnUwWURuYS1MeWlsbzFzSkJQMFJCRjV3LXdpSTRmV1hNdGc5Zl94aTBMVG1ma2JvSDY3VHc",
-      "recorded_date": "October 16, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
+      "source": "Baystreet.ca",
+      "url": "https://baystreet.ca/foreignmarketwrap/5031/Asia-Staggers-into-Weekend",
       "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "~$105/bbl",
       "source": "CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWkNNdU00ZzRoNkplUnZZdU9TUW00a1ZGMUdTZ2xIX01MXzFxbHE0ZjFnbHQzMlJyejZxYVJOc2UtZG5qUEFNVTFNa1JkQzhoZFFXdFdVN0xmTnpSZzFuOTNCUjNMSU13a2ZDZ0J4b2Z2cVNIS0djNnRXVkhqZ2J2b3Q3MDh4M2g1N1o1WG9EMmUwVVpETUFYUTNJeGVLUlRmUUwxNGlsWnhlai1MQ1YteURfSmhqVGt2VDB1WUR3bnktQ0ZsR3k0RHN0RmYzOE05bWxPODFFcWhXYWptNmdrUHoxTVF4Z3hYSkxsUw",
-      "recorded_date": "October 16, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "~$4,160/oz",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE9jd3VBclQ4RHZBNGRxSDg4MnBObGZyUTlTd3lNQnZ6RS1wNXpUeDllTHRWX094LVJRd2lsLXd0WnBDMmJhUDdzMjlyTGI0ZWdzeXo3M3NnY252Sm5aLU1fdUw4VFFlZTJSUHBUNy1MOVBFZGduTDFpQU9LUDl4OVhQVGdWWmFjVGpCNHhmUWZOaEVuQllxbVNWTDl3RXlzVG4zVmtaUmhMSy1HcFRaaVVfYmNsUDdHNlM0QTBhVWVnQm85VU5IbElRMEVfanJw",
-      "recorded_date": "October 16, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "Rupee gains for 4th consecutive day, up 19 paise against the US dollar.",
@@ -54,7 +54,7 @@
       "value": "Crashed to 3-week low following record Treasury selloff",
       "source": "The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWhwUC1iOWQ1ZGRheUdtVTdSNHlhdU1yeFJtVTlfOHZ0QUFyZWN4eEhJRmJURFJwZm45UHVqZGdTVF90T1VVWUJNSFpEaGJmeGNPTm4yY3ZoSjlpSjl3aGJ3SnV5elZMZk9GYk11QUZDN1ZjS1FWOXAtZGlJeV92UnhoOW9NZ1h1TzF5WmJSRkNOaTVobEpTLW81ZGpxVkU3c1AxdldtNmRQR1lqYzhmQVY0YU1GUUEtM2dUa25sdFlJOXN1RDVDVmw1Qk1BOGdBSE9oMmx5NHYzSnpaTUZHU0JwNWh2M0HSAe4BQVVfeXFMUDBDY3RrX2ZkQXIxWUR3N00xS3E2bGp2RHRvcGdOUy1XRWVITmV3LTAxNDJMcDFzdVdTTXNFZU14VjhSdFA5OEhhZlg2WVE3Q1VrU1NGNnhnQTlqb0VBTnhmUmtxVXkzLUdZdEFIcm5YbGdFZE1xLWktUWl5SzU2VUlyY2tkNEliUmM5SW8xeGtGallJZW94eHNTcUFqeXhTYTlWaGpQeVpWaGZSRFZ6VFhodU01c01xaGxPenhqUzM4RHRsMUJpMml6ODE1ZHpFNUMzOGNLZmlKZEZGc2kzejB4X0RQVi1hRzVRN3hyZw",
-      "recorded_date": "October 16, 2026"
+      "recorded_date": "previous edition"
     }
   }
 }
