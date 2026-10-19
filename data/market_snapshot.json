@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-18T01:52:21.471345+00:00",
+  "recorded_at": "2026-10-19T01:56:03.297028+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -27,16 +27,16 @@
       "recorded_date": "previous edition"
     },
     "asian_markets": {
-      "value": "Nikkei 68,309.46; Hang Seng 23,972.29; Kospi 7,003.74",
-      "source": "The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzJ0WXRIZjNLeC1ZbFctM3RUVnhrbU5mMU9LYlEwbnhzbUtFX0dPV2w5Q1ktU0p2d1I5YVpueU1pQVN2NlFrbXJZVEwxcXVaWmhjLV9vaXJaZHpOeDVPQTRheWVfUVNpck0yVGl0ODJQdnVFRENsYmlnaUFiVzlvN3lHZ0ctSi0wMFpuN0hLMG1MUkI2S2p1MFZBRWppdl9nOU5fWTdzNmtmQ1RCUkQ2U3YxQ3hYZWpISWJLNllGMA",
-      "recorded_date": "previous edition"
+      "value": "Skidded broadly; Kospi drops over 1%, Nikkei 225 falls over 1.7%",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFlYZGwtS2ZKcFRoTkRrWUstTmVldVZ4bmRqanFYMzZjY2o0cnB2OVRCRWZOS1FjRU5iUmtHbXFBT3Nkc3o0bEFCZVQ1Zmp5RV8wd0pqbVJqZlgtX29nNUhmNmdZOVJVMlBOYmxXNk12UzhmTGhGRTNSQmZJeF9vTzdSa1JDbDZvOXJpM3RLNWt2WnlmUUotQ3ZLWS1yQ1NwX1BFQk9Md2UtZ3o3NC0zVGlseGViZVctRFh0aXcxbzVteDRDSlRwa0xET010cmlBZFRDWjdn?oc=5",
+      "recorded_date": "October 19, 2026"
     },
     "brent_crude": {
-      "value": "~$105/bbl",
+      "value": "$108 per barrel, easing slightly from five-month highs",
       "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWkNNdU00ZzRoNkplUnZZdU9TUW00a1ZGMUdTZ2xIX01MXzFxbHE0ZjFnbHQzMlJyejZxYVJOc2UtZG5qUEFNVTFNa1JkQzhoZFFXdFdVN0xmTnpSZzFuOTNCUjNMSU13a2ZDZ0J4b2Z2cVNIS0djNnRXVkhqZ2J2b3Q3MDh4M2g1N1o1WG9EMmUwVVpETUFYUTNJeGVLUlRmUUwxNGlsWnhlai1MQ1YteURfSmhqVGt2VDB1WUR3bnktQ0ZsR3k0RHN0RmYzOE05bWxPODFFcWhXYWptNmdrUHoxTVF4Z3hYSkxsUw",
-      "recorded_date": "previous edition"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlZCbVNjZ0w1bDlLSzJOZ3IzX01EX3RSYkdNeDlkSVo0bXZuOXYtclNTM2tIWV9wZWRBNnY0dkRTbGRFZnhLa0VXMmtaeWxDS3U0bWo5UDU1U0lkWVJqRUxtbGRWZXgzODFIbVFoRVFBbFJPdmJEUXBJZy0zZ1oxbFU3bXBHa010Z3BoX0tuR1FoeXdfM1h1M3pnaTBDTlVSS05MeTNZaFRleWpNM0JpZmp0dXpIRnhsSUxpTWdBNWYzX3ZPUWU3WVdnXzhLbXNiQW1DR1hQZGZLRlBOZGNEbkZkcUdZTTlxRTdOcmpWMHpkQWdV0gH6AUFVX3lxTFBGS3BTelN0T0FlNTVRS3A0OUJqMmlyOVplTDBOQnhXMkl3Y0x4RDhKV0ROMkl4c1lhNUQ5YVJSYTI0YWJMQ0Q0NVFlM254dllyVWVzeDBQd2VyeGNBQWEwV3NsbldIMVZFakFZMV9DdXUxUXdzMEZGdFZ3RVBPeHVyYWhmQ3NUcjhNcU1uQjA1R093RDVVNTJnU0ZMTVBsZU9BWkNMU016UkR3UFc4MElWQWZpVHFyTGU0bjc1LWZHWWlURHNNdURkNDFGX1lKaHJQbnd5LUtsZTNCRzZ1SmhzdURWNDNtaXFEcElXOFk4c0MtNkJxNnpwLUE?oc=5",
+      "recorded_date": "October 19, 2026"
     },
     "gold": {
       "value": "~$4,160/oz",
