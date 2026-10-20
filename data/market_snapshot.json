@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-19T01:56:03.297028+00:00",
+  "recorded_at": "2026-10-20T01:55:36.452573+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -21,22 +21,22 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "S&P 500 up 25 pts, Nasdaq up 20 pts, Dow Jones up 556 pts (1.08%)",
-      "source": "Investing.com / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSEJMQnl0SXQtbG1JbVkzY3lqWXptUmJCRlREX05MM2diUE45NEx1YlV0SVZfcm83bUVGM01YRHlrdm9kM2EwX1k4SVJpZVZfcGpxNjViaHAzNi1UeUExTjdnRVVwOUJuRWRKbVV3aWRHX2MwekMwekJBTmVTOHlmNnppOUVYNk42X3dSLURCT3VuZnUwWURuYS1MeWlsbzFzSkJQMFJCRjV3LXdpSTRmV1hNdGc5Zl94aTBMVG1ma2JvSDY3VHc",
-      "recorded_date": "previous edition"
+      "value": "Nasdaq rose 1.1% led by tech/semiconductor rebound; Dow slipped 36 points (-0.07%)",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWNQYXpsd1F1enZNSVBNLXdJNHVmN1hHLXlveE9jcTViMHFrN2FTVl9hdEstTk43QndBYmppOEl1NldIMWRrbU9salh3bVk2bWhjVG1oSEZZOUx3ZlBwNkY3dDRvNlFhWGE5TnhINEpuQ3E4ODR1NGI5RHZ1V25kaUFja05NMlNOMFo4VHVYMmJaTklPRDVKbENZTDFpTXdEM2dXR1RfTXdMbTZJYlFILTlfM1BIQXM?oc=5",
+      "recorded_date": "October 20, 2026"
     },
     "asian_markets": {
-      "value": "Skidded broadly; Kospi drops over 1%, Nikkei 225 falls over 1.7%",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFlYZGwtS2ZKcFRoTkRrWUstTmVldVZ4bmRqanFYMzZjY2o0cnB2OVRCRWZOS1FjRU5iUmtHbXFBT3Nkc3o0bEFCZVQ1Zmp5RV8wd0pqbVJqZlgtX29nNUhmNmdZOVJVMlBOYmxXNk12UzhmTGhGRTNSQmZJeF9vTzdSa1JDbDZvOXJpM3RLNWt2WnlmUUotQ3ZLWS1yQ1NwX1BFQk9Md2UtZ3o3NC0zVGlseGViZVctRFh0aXcxbzVteDRDSlRwa0xET010cmlBZFRDWjdn?oc=5",
-      "recorded_date": "October 19, 2026"
+      "value": "KOSPI led regional declines, plunging 3.59% in Seoul; Nikkei 225 fell to 64,916.70",
+      "source": "Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzIxVHZDWmdDdGE4OEZCREdITmd3eGdQMUp4aksyN2RzQl9KZTlsS1VNU3Z3VUxjSE1VREFRYk5FTXBOWEs3RHVaQlczMGI0R1VNa1piYzRJY3NzUjVBVXhQSzdmSl8zbldYZGV6VnI5U1psMzZsSHNpZFI5RlJTbXd4T2xDTTJkZFRsOVJZX3h3ak1tUXZNYUkwVU91WmQyRFRhd3dmRFF2Z3ZlcXA0TEZfaERFZw?oc=5",
+      "recorded_date": "October 20, 2026"
     },
     "brent_crude": {
       "value": "$108 per barrel, easing slightly from five-month highs",
       "source": "CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlZCbVNjZ0w1bDlLSzJOZ3IzX01EX3RSYkdNeDlkSVo0bXZuOXYtclNTM2tIWV9wZWRBNnY0dkRTbGRFZnhLa0VXMmtaeWxDS3U0bWo5UDU1U0lkWVJqRUxtbGRWZXgzODFIbVFoRVFBbFJPdmJEUXBJZy0zZ1oxbFU3bXBHa010Z3BoX0tuR1FoeXdfM1h1M3pnaTBDTlVSS05MeTNZaFRleWpNM0JpZmp0dXpIRnhsSUxpTWdBNWYzX3ZPUWU3WVdnXzhLbXNiQW1DR1hQZGZLRlBOZGNEbkZkcUdZTTlxRTdOcmpWMHpkQWdV0gH6AUFVX3lxTFBGS3BTelN0T0FlNTVRS3A0OUJqMmlyOVplTDBOQnhXMkl3Y0x4RDhKV0ROMkl4c1lhNUQ5YVJSYTI0YWJMQ0Q0NVFlM254dllyVWVzeDBQd2VyeGNBQWEwV3NsbldIMVZFakFZMV9DdXUxUXdzMEZGdFZ3RVBPeHVyYWhmQ3NUcjhNcU1uQjA1R093RDVVNTJnU0ZMTVBsZU9BWkNMU016UkR3UFc4MElWQWZpVHFyTGU0bjc1LWZHWWlURHNNdURkNDFGX1lKaHJQbnd5LUtsZTNCRzZ1SmhzdURWNDNtaXFEcElXOFk4c0MtNkJxNnpwLUE?oc=5",
-      "recorded_date": "October 19, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "~$4,160/oz",
@@ -45,10 +45,10 @@
       "recorded_date": "previous edition"
     },
     "usd_inr": {
-      "value": "Rupee gains for 4th consecutive day, up 19 paise against the US dollar.",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHB0cF9Ic0JXMmdnYXNTcV9lTU9ibHA2NzZWUVpXbWZEamZFVFA3ZVY0RFhkbU1jVW12X0JTYmVuWWMxN1ZuWlBNanRVaFRXdzlaR1B6VjN4R3dpdTJLY3dwdHdlRDIycVRFWjBicW03OXJhWWRyXzZsdGVESzl5c3Eyb0hkVDE4UThBNS10b094YUtZMUlGWU1na3pVWWR3QU5BNzV1MVRvTHBSQnJ3dHF6UlNCQW9JWjI5NjkzLTcxNm9uX3E4Ty1sRdIB0AFBVV95cUxNUmxVSTRvM01OZ2RVWFd3ajBwTVV5MzVnaUp0X0d5SzBwUlE2ODNOUDhIcUdkendaOTdhOWUxTjROWDZyamdVUHVveWpzYmpIUGc0N0dpbldMWE5OZFFTalVaR0JySjlGREtCMnliLXZOcjRmN2RSaGgwZUo0aHBydldtamRRZlI3Z3cyQUpBaTFqU3M5OFU1a2RsQmdqSE9neDYtcmw1MGd3Vnc1Wkg1Wm1DSGVQRlJPN1BRTTl6Tmk3MnJOTTR5emYydGtiZ3JT?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Closed down 2 paise at 94.91 against USD",
+      "source": "The Shillong Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejFOdkd5c2RKeEJ3eEN6TjA2b1FhRUZERUNNZVc0ekJYdDlNbWlrOWVxbXgtVXVyc3UwUW5zZWVfVzJ5Q09PSGp6NU11Z0JzR2swaWppRjlhSlV0SUlncXg3NVlJajFPN1ZkSHRFc19CZ2xIek4xVld5ZFhoU0x3SUt1bU1iVkdkVWRRRVh3OFU3ZHR2?oc=5",
+      "recorded_date": "October 20, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
