@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-20T01:55:36.452573+00:00",
+  "recorded_at": "2026-10-21T01:57:37.659297+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -21,34 +21,34 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "Nasdaq rose 1.1% led by tech/semiconductor rebound; Dow slipped 36 points (-0.07%)",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWNQYXpsd1F1enZNSVBNLXdJNHVmN1hHLXlveE9jcTViMHFrN2FTVl9hdEstTk43QndBYmppOEl1NldIMWRrbU9salh3bVk2bWhjVG1oSEZZOUx3ZlBwNkY3dDRvNlFhWGE5TnhINEpuQ3E4ODR1NGI5RHZ1V25kaUFja05NMlNOMFo4VHVYMmJaTklPRDVKbENZTDFpTXdEM2dXR1RfTXdMbTZJYlFILTlfM1BIQXM?oc=5",
-      "recorded_date": "October 20, 2026"
+      "value": "Dow up 1.02% (530 points), S&P 500 up 22 pts, Nasdaq slips 6 pts",
+      "source": "Investing.com",
+      "url": "https://www.investing.com",
+      "recorded_date": "October 21, 2026"
     },
     "asian_markets": {
-      "value": "KOSPI led regional declines, plunging 3.59% in Seoul; Nikkei 225 fell to 64,916.70",
-      "source": "Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzIxVHZDWmdDdGE4OEZCREdITmd3eGdQMUp4aksyN2RzQl9KZTlsS1VNU3Z3VUxjSE1VREFRYk5FTXBOWEs3RHVaQlczMGI0R1VNa1piYzRJY3NzUjVBVXhQSzdmSl8zbldYZGV6VnI5U1psMzZsSHNpZFI5RlJTbXd4T2xDTTJkZFRsOVJZX3h3ak1tUXZNYUkwVU91WmQyRFRhd3dmRFF2Z3ZlcXA0TEZfaERFZw?oc=5",
-      "recorded_date": "October 20, 2026"
+      "value": "Nikkei 225 drops to 64,075.37; SSE Composite falls to 3,707.48",
+      "source": "BBN Times",
+      "url": "https://www.bbntimes.com",
+      "recorded_date": "October 21, 2026"
     },
     "brent_crude": {
-      "value": "$108 per barrel, easing slightly from five-month highs",
+      "value": "Near $110/barrel (5-month high)",
       "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVlZCbVNjZ0w1bDlLSzJOZ3IzX01EX3RSYkdNeDlkSVo0bXZuOXYtclNTM2tIWV9wZWRBNnY0dkRTbGRFZnhLa0VXMmtaeWxDS3U0bWo5UDU1U0lkWVJqRUxtbGRWZXgzODFIbVFoRVFBbFJPdmJEUXBJZy0zZ1oxbFU3bXBHa010Z3BoX0tuR1FoeXdfM1h1M3pnaTBDTlVSS05MeTNZaFRleWpNM0JpZmp0dXpIRnhsSUxpTWdBNWYzX3ZPUWU3WVdnXzhLbXNiQW1DR1hQZGZLRlBOZGNEbkZkcUdZTTlxRTdOcmpWMHpkQWdV0gH6AUFVX3lxTFBGS3BTelN0T0FlNTVRS3A0OUJqMmlyOVplTDBOQnhXMkl3Y0x4RDhKV0ROMkl4c1lhNUQ5YVJSYTI0YWJMQ0Q0NVFlM254dllyVWVzeDBQd2VyeGNBQWEwV3NsbldIMVZFakFZMV9DdXUxUXdzMEZGdFZ3RVBPeHVyYWhmQ3NUcjhNcU1uQjA1R093RDVVNTJnU0ZMTVBsZU9BWkNMU016UkR3UFc4MElWQWZpVHFyTGU0bjc1LWZHWWlURHNNdURkNDFGX1lKaHJQbnd5LUtsZTNCRzZ1SmhzdURWNDNtaXFEcElXOFk4c0MtNkJxNnpwLUE?oc=5",
-      "recorded_date": "previous edition"
+      "url": "https://www.cnbctv18.com",
+      "recorded_date": "October 21, 2026"
     },
     "gold": {
-      "value": "~$4,160/oz",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdE9jd3VBclQ4RHZBNGRxSDg4MnBObGZyUTlTd3lNQnZ6RS1wNXpUeDllTHRWX094LVJRd2lsLXd0WnBDMmJhUDdzMjlyTGI0ZWdzeXo3M3NnY252Sm5aLU1fdUw4VFFlZTJSUHBUNy1MOVBFZGduTDFpQU9LUDl4OVhQVGdWWmFjVGpCNHhmUWZOaEVuQllxbVNWTDl3RXlzVG4zVmtaUmhMSy1HcFRaaVVfYmNsUDdHNlM0QTBhVWVnQm85VU5IbElRMEVfanJw",
-      "recorded_date": "previous edition"
+      "value": "Below $4,150 ($4,217 breakout level watched)",
+      "source": "FXStreet",
+      "url": "https://www.fxstreet.com",
+      "recorded_date": "October 21, 2026"
     },
     "usd_inr": {
-      "value": "Closed down 2 paise at 94.91 against USD",
-      "source": "The Shillong Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejFOdkd5c2RKeEJ3eEN6TjA2b1FhRUZERUNNZVc0ekJYdDlNbWlrOWVxbXgtVXVyc3UwUW5zZWVfVzJ5Q09PSGp6NU11Z0JzR2swaWppRjlhSlV0SUlncXg3NVlJajFPN1ZkSHRFc19CZ2xIek4xVld5ZFhoU0x3SUt1bU1iVkdkVWRRRVh3OFU3ZHR2?oc=5",
-      "recorded_date": "October 20, 2026"
+      "value": "94.80 (Rupee rises 9 paise as RBI steps in)",
+      "source": "BW Businessworld",
+      "url": "https://www.businessworld.in",
+      "recorded_date": "October 21, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
