@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-21T01:57:37.659297+00:00",
+  "recorded_at": "2026-10-22T01:59:12.079443+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -24,31 +24,31 @@
       "value": "Dow up 1.02% (530 points), S&P 500 up 22 pts, Nasdaq slips 6 pts",
       "source": "Investing.com",
       "url": "https://www.investing.com",
-      "recorded_date": "October 21, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Nikkei 225 drops to 64,075.37; SSE Composite falls to 3,707.48",
       "source": "BBN Times",
       "url": "https://www.bbntimes.com",
-      "recorded_date": "October 21, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Near $110/barrel (5-month high)",
       "source": "CNBC TV18",
       "url": "https://www.cnbctv18.com",
-      "recorded_date": "October 21, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Below $4,150 ($4,217 breakout level watched)",
       "source": "FXStreet",
       "url": "https://www.fxstreet.com",
-      "recorded_date": "October 21, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "94.80 (Rupee rises 9 paise as RBI steps in)",
       "source": "BW Businessworld",
       "url": "https://www.businessworld.in",
-      "recorded_date": "October 21, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
