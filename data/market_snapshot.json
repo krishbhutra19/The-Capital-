@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-23T01:58:10.971123+00:00",
+  "recorded_at": "2026-10-24T01:58:14.532133+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -36,13 +36,13 @@
       "value": "Surged past $113 per barrel",
       "source": "TradingKey",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEpFb2ZBQ0RZeXQwY28tM0E4OHkxWmFJczQ5VlBVdUQ1dVMyRTA0UFF1UXlldHMyS3NoeHdnS0NPR1RLNnhyYTJJeW1WX1NBbGVQU3BmM1E2al82VkZsT1B4TS1pTnhqY2daZ1NoTWljUENJREpVRVRYOVNuNi1uY3VxZDMyeE45QmRCMUxJWUNPTzBuYTBaNVlmTk9Vdkl4NW54bTNEZ2toeW1WaDJUNWdrU1NXUjJ1ZDRELWFpWHBubkl6ZHpPOXV6cDBKR2RNV2k3d29taEc?oc=5",
-      "recorded_date": "October 23, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Hit 3-month low toward $4,000 amid rate concerns and oil rally",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
-      "recorded_date": "October 23, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "94.80 (Rupee rises 9 paise as RBI steps in)",
