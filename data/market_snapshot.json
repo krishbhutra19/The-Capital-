@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-25T01:54:10.743150+00:00",
+  "recorded_at": "2026-10-26T02:03:14.932481+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -33,16 +33,16 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "Surged past $113 per barrel",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWEpFb2ZBQ0RZeXQwY28tM0E4OHkxWmFJczQ5VlBVdUQ1dVMyRTA0UFF1UXlldHMyS3NoeHdnS0NPR1RLNnhyYTJJeW1WX1NBbGVQU3BmM1E2al82VkZsT1B4TS1pTnhqY2daZ1NoTWljUENJREpVRVRYOVNuNi1uY3VxZDMyeE45QmRCMUxJWUNPTzBuYTBaNVlmTk9Vdkl4NW54bTNEZ2toeW1WaDJUNWdrU1NXUjJ1ZDRELWFpWHBubkl6ZHpPOXV6cDBKR2RNV2k3d29taEc?oc=5",
-      "recorded_date": "previous edition"
+      "value": "$115 per barrel",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTFdlS1NWX195eEI4cmkzMkQ3UWpDUWpYVUExV1VDLTd5M01uaC1JNE9XNW4wa1Z4OHRYUVdCWlVDV0M3TDZoN2tXVmlmaE9WT3U0cWNaSmZ2LUFfLVR2N2pJc1JoV3piSTRHZEE2cE1TaUxvV1R4M2t0RGZ0VjJmemhpbUJMeURCSURJZElmanozNXBKUTFJLVZFLU02VUNkSVU0dHJ5QVZTMXE1eE1jY2t1MnFHQjYxcDR5Wk01b3ZBUkRPd1lVQkZxa1RiWHNwNTBQTXNUaFNQZ0E2UlF2OU15c1M4Vi1YVDItaEpEZnJSVkNBQkYteXdyTkRNM1VsNFFUMDgyQUPSAY4CQVVfeXFMUHd2N1owZlh3Sy1raXZKQTZ5aHViNjNLaFRUWGw5ODZoNmR2amh0TXFHWE9XZ0VCM2gycUpfWFdLWkpjLTJWcUhudFVHZFpkSDBGTktGWXFfSWdBcTB6OEVleVFlZ1E5U0gxZGtvVlJER1Z5TDZiZ21LNHpadzhBV2ljRGpkUnJySE5SM01aSFZmQ1pKZXI1Zmk2bFppRG1qQWVJS0FnRmd0Sm1vcHVfeWpFV0lZYkJLX0Etc3FVdXVteWxFM01pRjVQRU5IREJBdzJ0MldVQV9fLUlxcDFlWGtDMFUwcEVPOXlxMmxKWE9zMWpJWVZyT1pTZ3pOcjZ3TXhQa3VtUm1ZRTZuSmV3?oc=5",
+      "recorded_date": "October 26, 2026"
     },
     "gold": {
-      "value": "Hit 3-month low toward $4,000 amid rate concerns and oil rally",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUVXME5UQlZPUUpuQlJRSlM5RWcxeTB2TTZieGZTaDBGM3VqajY5c0VsOHdJMkYyQTcyTGhOS084NkQtcTJyMjVxWmVsT0l5M254RXpBUlJmbGs1NWtHSzYya3VzTmh1ckVMa2RNZVdZNnNVLWIzMUhrLWMtc212RkZDdUlwdW51YWQwTHRVWEFYbVZ2U0JQYTRKSHNrQm9ieWxSOUUwS1FRMXRrYjhVaGNSMm5WaTFFc1lkR0VYTVJuUk9ZeGc?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Below $4,000",
+      "source": "TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzk3VUVkRDQwNHBUVEdySGJaQXRFVDFMRUFJQmJKTm83WUNDbkVlMlRLZGpOWF9tUnVJRVpVUjEzSWxiYW11T1BWWlBDRlBvR3owRzJtN0ktWlNfSFhpOGI0emltQUZHWFAxNUgtM1RxZE5VbUpSWnVUclBfZDdrMkRoR0Vkb3Jrd25EVVJwM0VxZDdQekx4QjQ3MDlOejZYYmtFZk9NZmQyd1dMZUgwSE9VeG5mUnA4eUw5Z2xuNlZLcFpi?oc=5",
+      "recorded_date": "October 26, 2026"
     },
     "usd_inr": {
       "value": "94.80 (Rupee rises 9 paise as RBI steps in)",
