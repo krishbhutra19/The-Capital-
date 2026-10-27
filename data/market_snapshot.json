@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-10-26T02:03:14.932481+00:00",
+  "recorded_at": "2026-10-27T02:01:32.089734+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -27,28 +27,28 @@
       "recorded_date": "previous edition"
     },
     "asian_markets": {
-      "value": "Nikkei 225 drops to 64,075.37; SSE Composite falls to 3,707.48",
-      "source": "BBN Times",
-      "url": "https://www.bbntimes.com",
-      "recorded_date": "previous edition"
+      "value": "Kospi soared 4% on Q3 GDP beat; Nikkei gained 2%; Asian stocks surged broadly.",
+      "source": "NDTV Profit / Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWncwSlc0cF9CNUtXUDhjYngtLVVUQnAyVjRmSG8xT3VvUEIyaFdaTFRqdnV3NmZrTkxsTy1GSEkxVUhuZ2tzZmtEODlkOUlMd1g0MV9ibU4zcFBpbExtMldTeWJhb1pKcG94bHR5YlJtTVBlYnpxUWZkVzZjbGNSNnNEbWlUSDI1TjJuYUpCRVJoYk1vUTRxVm4wYi1EaVRUNWlwM29KUkNmLTlzT3MxTmF2Tl8xQ0NqOWZKMWIwUjhGRWU2SXlzdVU5ZkhWYjR2N0pEOHExN05wZERLOGlKM3VVOGFmSkh4UHZoX19tV2VGTnh0VWIwMlVR0gGCAkFVX3lxTE81eE16RnBjNjdkUDRDLUVjdnVDbmRQeFhGV3loZWtsUlpaRDVZenh5aWpBRHdqV1I1SHhWU0Z6UEhRQW8tU3BXUEY5M0Vib1pQWkZMX1ZoNENOMTBXOXB3R1lGTExZeUVnbTM2OGk5MVNFM19MbDg2ZnZacURTNWREejdVR2wzR3FUenA2bXdQajk2WUoyTTBvdDVCUExtblRDaWRhS2hvTFFtN2pTUFVaWU94QXU3a0liU3VsUGVoWEpWa1kyM2JZQ1lGblFBZ0x5VmdBVUkwQjh5dm9FdGZuV2dnVEdIUkJEbTEtZm4wM2FWdTEzRFItdC0xRnkwZ3NiZw?oc=5",
+      "recorded_date": "October 27, 2026"
     },
     "brent_crude": {
-      "value": "$115 per barrel",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTFdlS1NWX195eEI4cmkzMkQ3UWpDUWpYVUExV1VDLTd5M01uaC1JNE9XNW4wa1Z4OHRYUVdCWlVDV0M3TDZoN2tXVmlmaE9WT3U0cWNaSmZ2LUFfLVR2N2pJc1JoV3piSTRHZEE2cE1TaUxvV1R4M2t0RGZ0VjJmemhpbUJMeURCSURJZElmanozNXBKUTFJLVZFLU02VUNkSVU0dHJ5QVZTMXE1eE1jY2t1MnFHQjYxcDR5Wk01b3ZBUkRPd1lVQkZxa1RiWHNwNTBQTXNUaFNQZ0E2UlF2OU15c1M4Vi1YVDItaEpEZnJSVkNBQkYteXdyTkRNM1VsNFFUMDgyQUPSAY4CQVVfeXFMUHd2N1owZlh3Sy1raXZKQTZ5aHViNjNLaFRUWGw5ODZoNmR2amh0TXFHWE9XZ0VCM2gycUpfWFdLWkpjLTJWcUhudFVHZFpkSDBGTktGWXFfSWdBcTB6OEVleVFlZ1E5U0gxZGtvVlJER1Z5TDZiZ21LNHpadzhBV2ljRGpkUnJySE5SM01aSFZmQ1pKZXI1Zmk2bFppRG1qQWVJS0FnRmd0Sm1vcHVfeWpFV0lZYkJLX0Etc3FVdXVteWxFM01pRjVQRU5IREJBdzJ0MldVQV9fLUlxcDFlWGtDMFUwcEVPOXlxMmxKWE9zMWpJWVZyT1pTZ3pOcjZ3TXhQa3VtUm1ZRTZuSmV3?oc=5",
-      "recorded_date": "October 26, 2026"
+      "value": "$115 near peak, easing slightly as diplomacy reduces wider US-Iran escalation fears",
+      "source": "CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXNYd0VCdTZ6XzZzdzEtQkZ1R05MUEpZU2xqTUlGallIX2hrNmw2OUN4MTducHVld3dTWmJtd19wVlVTTXJNLW8wVk5IY2NrR0VpZlZFakRKNUlyNkQ2MGRpY2pwWldBV0ltM2xONHl1UWprQkhOUkstQU9OQ3VBS05RN2F1eExGellic2dNbWVuekpFNjBOY1lCUXZOcktaTW04V0JlWDNXYzNHWGxVTEtUaFZ0MW5OYUl4OUc3NmFfdFQwOVk1a1F1T3hjM0l5VHRTVUkyTzRZY2lCWnFkY29QSl96SmR0RmkyWGZWS2pzM3g0R0NJ0gH8AUFVX3lxTE5FcEsycV9qRjdVS0g0NEQ2SWxZVVFncXJvM0lpY0R6YWxKMGRwNnhnMmdjRG55Zno0T1BIVXJSQnZMc0V2VVBLeUt1Q0N1bjBrOWk1QWtxVHJwR2wzdWNIbXBqMXVrZi1xRjhQaWpsNGlEUWxlX2hHLVBpeFV6RmNtcTB1YzhDXzhMNGl4R3FhQ3pWcVpLMzQxYXpQUUYwYWhpUFh3bVl3WHNYVlpvdnpzSEhqcHYzYTFnZlN0UVo0ZnNicXFiMUFDNWVvN1c3U25qaFNYSXRLODNnN0JJWWdwdm53TVRpRElCYVI0aWU5NGQ4cENDRjVzcDNSTA?oc=5",
+      "recorded_date": "October 27, 2026"
     },
     "gold": {
-      "value": "Below $4,000",
+      "value": "$4,000 rebound ahead of Fed decision",
       "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZzk3VUVkRDQwNHBUVEdySGJaQXRFVDFMRUFJQmJKTm83WUNDbkVlMlRLZGpOWF9tUnVJRVpVUjEzSWxiYW11T1BWWlBDRlBvR3owRzJtN0ktWlNfSFhpOGI0emltQUZHWFAxNUgtM1RxZE5VbUpSWnVUclBfZDdrMkRoR0Vkb3Jrd25EVVJwM0VxZDdQekx4QjQ3MDlOejZYYmtFZk9NZmQyd1dMZUgwSE9VeG5mUnA4eUw5Z2xuNlZLcFpi?oc=5",
-      "recorded_date": "October 26, 2026"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFl3UnBOd2NvQjU3TWJTYkRWMlQ5NVZDUm1tZW9wdHp3SUJRWXFhTFNaVUtpU3lzcXZfaUhDOWxPeURoSEptYTR1LTZGQV9KT3NpUnJRLVNyRmJTVUtlaW40ajlWX0FXNW4tSHFrcVdmSGtsWS03elROd2puOTZkOGprdktlN18xNlBpOXZiTEo1Vm82Yy13RVBWMjRsemdZekhLX3dkSFdHUzZEc2hRZlVSanNXWnhxYkdTMDdHbzJOZw?oc=5",
+      "recorded_date": "October 27, 2026"
     },
     "usd_inr": {
-      "value": "94.80 (Rupee rises 9 paise as RBI steps in)",
-      "source": "BW Businessworld",
-      "url": "https://www.businessworld.in",
-      "recorded_date": "previous edition"
+      "value": "95.00 (breached 95 levels, down 25 paise)",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkUteERpTWtnU0lDWGp4MFdvNW9IVnQwSWE2YmhvNDNiWlh6WXBhS2xRN3VTc0ctYWlhdkg5LWNXVFAwNVhKcG9sVFlBVFAtSWZNd1Y1VDFJb2J0T2J6UWxjalV2M0lQSlRFcXg4MVR6b1JTUlhYMVktVlBnbllpQXhya0hwekcxMVd0ZW9xTjFfNlJRZC1Hak5fYjVERFIxdU5mYlJIX09BcWpTdHppQlJQOEpvWFFna05ld3Zn0gHDAUFVX3lxTE5ReldlY2RpZ1J6M0xRaWp1Rk13djJJbkhseWhubjVDM3NDbS1qV2g0cnlpMTZQWnBJalQ2N2xGbVFaTFVKWVhieFpWNExiWVFneGJaZ0JGNlpiaERVT3d5Sy15Z1pjOTBPdXRKanAxbGNmTC1kZWxhdXBYLWUzUWF4TW1yQ2xpRFFHU0U1VTliU3hkZmFqWEp1UGJYLTJQc1J3MGlLbnhad1VuYTFIRjBTbUlWLVdFekhTTVRsR2hUb3JwTQ?oc=5",
+      "recorded_date": "October 27, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
