@@ -1,12 +1,12 @@
 {
-  "recorded_at": "2026-10-27T02:01:32.089734+00:00",
+  "recorded_at": "2026-10-28T02:10:17.775436+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
-      "value": "22,421.95",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5ENSEI/history/",
-      "recorded_date": "previous edition"
+      "value": "22,600",
+      "source": "TMGM",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVEwS1FpcjFKY0pubVBvT2Y4dGxYbWNlcGJ2WnEzbERMbVgzUGNPQWJvVGlKTGsxT3g1VGpidDlXcTBPME5GYnl1LUJzRmd0RkhJaWMxTWVDdlJYeVJMQktQZmQtT3NBZ19XUHdHa2p2VXdCM3NHcXhOREppc2plQ1RJZ1pqcW1ROFpQczZhdXZmZGQxR0FYWW5LZkVXMVR5REpoS1hNU00yRWw1ZVE?oc=5",
+      "recorded_date": "October 28, 2026"
     },
     "sensex_previous_close": {
       "value": "72,638.70",
@@ -21,34 +21,34 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "Dow up 1.02% (530 points), S&P 500 up 22 pts, Nasdaq slips 6 pts",
-      "source": "Investing.com",
-      "url": "https://www.investing.com",
-      "recorded_date": "previous edition"
+      "value": "Up (Nasdaq +1.18%, S&P 500 higher)",
+      "source": "Reuters / BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXZTVpYnMxVGFvY05XUjhmODcxMmtSbzhNdkZIRmstdktGTHA5cVZtZWpjaGhjZHc3dHRDYUJMN0dqWGZUbEFFMW45cTU5OEliWWFyMVhOTmVheXdlSUdNenpqckZkYmo5ZzNGU3pfVkFCa1hzZ1E?oc=5",
+      "recorded_date": "October 28, 2026"
     },
     "asian_markets": {
       "value": "Kospi soared 4% on Q3 GDP beat; Nikkei gained 2%; Asian stocks surged broadly.",
       "source": "NDTV Profit / Reuters",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWncwSlc0cF9CNUtXUDhjYngtLVVUQnAyVjRmSG8xT3VvUEIyaFdaTFRqdnV3NmZrTkxsTy1GSEkxVUhuZ2tzZmtEODlkOUlMd1g0MV9ibU4zcFBpbExtMldTeWJhb1pKcG94bHR5YlJtTVBlYnpxUWZkVzZjbGNSNnNEbWlUSDI1TjJuYUpCRVJoYk1vUTRxVm4wYi1EaVRUNWlwM29KUkNmLTlzT3MxTmF2Tl8xQ0NqOWZKMWIwUjhGRWU2SXlzdVU5ZkhWYjR2N0pEOHExN05wZERLOGlKM3VVOGFmSkh4UHZoX19tV2VGTnh0VWIwMlVR0gGCAkFVX3lxTE81eE16RnBjNjdkUDRDLUVjdnVDbmRQeFhGV3loZWtsUlpaRDVZenh5aWpBRHdqV1I1SHhWU0Z6UEhRQW8tU3BXUEY5M0Vib1pQWkZMX1ZoNENOMTBXOXB3R1lGTExZeUVnbTM2OGk5MVNFM19MbDg2ZnZacURTNWREejdVR2wzR3FUenA2bXdQajk2WUoyTTBvdDVCUExtblRDaWRhS2hvTFFtN2pTUFVaWU94QXU3a0liU3VsUGVoWEpWa1kyM2JZQ1lGblFBZ0x5VmdBVUkwQjh5dm9FdGZuV2dnVEdIUkJEbTEtZm4wM2FWdTEzRFItdC0xRnkwZ3NiZw?oc=5",
-      "recorded_date": "October 27, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$115 near peak, easing slightly as diplomacy reduces wider US-Iran escalation fears",
-      "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRXNYd0VCdTZ6XzZzdzEtQkZ1R05MUEpZU2xqTUlGallIX2hrNmw2OUN4MTducHVld3dTWmJtd19wVlVTTXJNLW8wVk5IY2NrR0VpZlZFakRKNUlyNkQ2MGRpY2pwWldBV0ltM2xONHl1UWprQkhOUkstQU9OQ3VBS05RN2F1eExGellic2dNbWVuekpFNjBOY1lCUXZOcktaTW04V0JlWDNXYzNHWGxVTEtUaFZ0MW5OYUl4OUc3NmFfdFQwOVk1a1F1T3hjM0l5VHRTVUkyTzRZY2lCWnFkY29QSl96SmR0RmkyWGZWS2pzM3g0R0NJ0gH8AUFVX3lxTE5FcEsycV9qRjdVS0g0NEQ2SWxZVVFncXJvM0lpY0R6YWxKMGRwNnhnMmdjRG55Zno0T1BIVXJSQnZMc0V2VVBLeUt1Q0N1bjBrOWk1QWtxVHJwR2wzdWNIbXBqMXVrZi1xRjhQaWpsNGlEUWxlX2hHLVBpeFV6RmNtcTB1YzhDXzhMNGl4R3FhQ3pWcVpLMzQxYXpQUUYwYWhpUFh3bVl3WHNYVlpvdnpzSEhqcHYzYTFnZlN0UVo0ZnNicXFiMUFDNWVvN1c3U25qaFNYSXRLODNnN0JJWWdwdm53TVRpRElCYVI0aWU5NGQ4cENDRjVzcDNSTA?oc=5",
-      "recorded_date": "October 27, 2026"
+      "value": "$115",
+      "source": "Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSzZFUk04NVhKdUo1eEZxRUJLdHhMN0xuMGJfd0VyQ3BockFSLWo4Y0tDTTYxNVR6a3gwc3p5ZGhISXVJbk5fdHdFb3hMZzJQWnVDZ2NMQTY3UjRkUklNNkQ4Q1J4XzZmNHU2cjJERDNRcTVaU19uWU9RcGNLbmxhdnpBUGd3MHJkTkVfS2RDUVh5MTR5dVRpcmxUUGFXNXhmTDh4OVA0MXVUaTBhcGhwa1lLVkVWQVEwOFk2LXBrX0tQZEQ1bUxibi1kY1pOaGE0ZkwycTVMVEZ3VDdwRmZvOTdqZkRkMkM4MTdsOUdtRnN5Q1FhS0RzaEs5Y9IBgAJBVV95cUxNeXYzd1NoeWZNMVg1QmlBMkNtZkxRMXYybjI1QkFVT2tWTFpCVnlnMzg4T28zOG0xR2I3YUM5WjFlMkVnRTZjQTB5X0N0aExiclNNRzhlY0FsZXFnVXg0RzNPMEZXTVRmQWdueDZ5V01WbUZ6VlpKTzlyWWJzeXNzTXF2ZTl6YlBsMzNSX3lDRUViVmZjU1RXQ2pBYUExWDRld1UtRzJmeUIwdDZLUmhUWEJTN2dGLXp5ZURrSnNFS3pLMWZob1N2NHNQbFV6bGRlTnlsSEwtMFhRN1ZnMWpHczdMNlBxNDg1aWtnYURHUEJPSmpzMUhmUkVQNzdPTVVy?oc=5",
+      "recorded_date": "October 28, 2026"
     },
     "gold": {
-      "value": "$4,000 rebound ahead of Fed decision",
-      "source": "TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFl3UnBOd2NvQjU3TWJTYkRWMlQ5NVZDUm1tZW9wdHp3SUJRWXFhTFNaVUtpU3lzcXZfaUhDOWxPeURoSEptYTR1LTZGQV9KT3NpUnJRLVNyRmJTVUtlaW40ajlWX0FXNW4tSHFrcVdmSGtsWS03elROd2puOTZkOGprdktlN18xNlBpOXZiTEo1Vm82Yy13RVBWMjRsemdZekhLX3dkSFdHUzZEc2hRZlVSanNXWnhxYkdTMDdHbzJOZw?oc=5",
-      "recorded_date": "October 27, 2026"
+      "value": "$4,060",
+      "source": "TMGM",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3liZWZkeGxJTThYRGVYNWVVTnpqclJsMWlVaXg2YlF6VXpvWkZOajJ4Vjk0eWI4eDhKNS01NHFCQ1BYZ3lmaGhFdTk0RVAtdzF5SEhPQTRtMU5Dd29HdS1XMDNCT0o4TUxWNEFPdmJhMGNCTGpfbFdxWmtrS3pxSGZaWV9RNkREY05DTTd2Rmg3LVhkcVE?oc=5",
+      "recorded_date": "October 28, 2026"
     },
     "usd_inr": {
       "value": "95.00 (breached 95 levels, down 25 paise)",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkUteERpTWtnU0lDWGp4MFdvNW9IVnQwSWE2YmhvNDNiWlh6WXBhS2xRN3VTc0ctYWlhdkg5LWNXVFAwNVhKcG9sVFlBVFAtSWZNd1Y1VDFJb2J0T2J6UWxjalV2M0lQSlRFcXg4MVR6b1JTUlhYMVktVlBnbllpQXhya0hwekcxMVd0ZW9xTjFfNlJRZC1Hak5fYjVERFIxdU5mYlJIX09BcWpTdHppQlJQOEpvWFFna05ld3Zn0gHDAUFVX3lxTE5ReldlY2RpZ1J6M0xRaWp1Rk13djJJbkhseWhubjVDM3NDbS1qV2g0cnlpMTZQWnBJalQ2N2xGbVFaTFVKWVhieFpWNExiWVFneGJaZ0JGNlpiaERVT3d5Sy15Z1pjOTBPdXRKanAxbGNmTC1kZWxhdXBYLWUzUWF4TW1yQ2xpRFFHU0U1VTliU3hkZmFqWEp1UGJYLTJQc1J3MGlLbnhad1VuYTFIRjBTbUlWLVdFekhTTVRsR2hUb3JwTQ?oc=5",
-      "recorded_date": "October 27, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
