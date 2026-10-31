@@ -1,18 +1,18 @@
 {
-  "recorded_at": "2026-10-30T02:13:24.280958+00:00",
+  "recorded_at": "2026-10-31T02:12:56.519997+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
       "value": "22,650",
       "source": "INDIA New England News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUJWN3liR1RkX0l1RFY0ZjBGSFRVaE1YeHdRQmhIclRXTDR2N285ZUh2Vmx1RUtUaTZEYTdfZk81bGNxOFJzeHRwTFlRZXdxVUM0bUNjcFFtMF9xVmQyWGdpX2F4THZFNmFTZ1l5d3dPQ0hIcm9LYlZuVWpBZzlfX0I4QXF2dVhhd3ZrZlZyRmkxcjJ4LS1EbEZGSDM?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "sensex_previous_close": {
       "value": "73,800",
       "source": "INDIA New England News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUJWN3liR1RkX0l1RFY0ZjBGSFRVaE1YeHdRQmhIclRXTDR2N285ZUh2Vmx1RUtUaTZEYTdfZk81bGNxOFJzeHRwTFlRZXdxVUM0bUNjcFFtMF9xVmQyWGdpX2F4THZFNmFTZ1l5d3dPQ0hIcm9LYlZuVWpBZzlfX0I4QXF2dVhhd3ZrZlZyRmkxcjJ4LS1EbEZGSDM?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "gift_nifty": {
       "value": "22,624.50",
@@ -24,7 +24,7 @@
       "value": "S&P 500 down 0.5%, Nasdaq leads selling on Alphabet miss",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tRjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Kospi soared 4% on Q3 GDP beat; Nikkei gained 2%; Asian stocks surged broadly.",
@@ -36,19 +36,19 @@
       "value": "$115/bbl",
       "source": "CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX3FoR2YwS1E1NHdKMjRWd25HdXNveENYWUFCbmhnSEVEMEoxOGc3UklJQ2tCVlRPZ1E2Qk9iTDRvclhGMUo2a1h4Z0txcVVlS3ROU0MtNF8wRWpwcElSTEsxbVRMb1JSR3pCOXVocnZyQWduclpoVmcwekRRazZIQkFrcVJWdXp3VTBGSGR6ZEplbmxkQXZfQTAyLXBfSTBUQmg3dUFvT3RtdEtEa1V4dW1McGVUZWh6UTg4OUlfVkgwM0lVT3Y0X20zR2ZBY2JiSUoxU3NrY3U1c2ZxaFZ4clhIRzhyMzQzeklxSnI4bUhZRUhfOHFsM0hEQdIBgAJBVV95cUxORWllZzBlaGttTDRnYUxyWGRHX1U5MGwxalgtTW9hdDlhVTRCOXVqM3lScEM4anc1eDFjOVhWNDNZV1h2MFNzVUJ1dF_6ZGRxbWhUX0Joazc4dTdkeU9OdVVoQ0x4ZFU5eTg5MjhKY25tQU14T1pvUHpZM1U1WWw0ZEhoNHJGREFmb2VzTjFIZjZrUWdTRGl1TUtnLUdJdXUyMFRjMjljcy1RaTluUHRZUjVaNjRLYUoyTmpubnJtdy1IeGpERjVGcVA3VXBidlNzY3N0UmxSemlyU1g2ajE3a2JtTmNQZUtzNWo5Y3AzNmNyQ2tkOGdvaEV4T0xrem5y?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Just above $4,000/oz",
       "source": "Investing.com India",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTVxbWJvUF9QU3d1bXA2NHhMbFRfN0JwMUVfbm52T0Y1eENSbFM5SXdpVmZzMl9lcS1aaUFsREFBSTBTYlZQYUJPNllqUmJaV05BWVU2bE1KaGgzVE45TnpONVNmLUZVT2ZLbFlrSll5WHhfY2YtWDBZS1N2ajBMclJ0a3Qzc0FLZ04tXzg2dFpxLThKNDE0a0V6RFRFclYzUk1iMl90allsaTZFTWJvRzF3UjliZw?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "Threatening 95/USD mark",
       "source": "Pragativadi",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWC00YllmUU9hM1VWQW5jeVpjZThlZ0xuS0RwMXVxbVc4QkJaNEVWc1FRRzIwMG9pUEZNaXlsakVodEZETXpNMFZKMDJxTG15bWJVVTllMWNXTmxzdHhsUk5pRmFSODZxWllINUF1SjRlWnl5Znc5N3dEZmN2QU9ZeA?oc=5",
-      "recorded_date": "October 30, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
