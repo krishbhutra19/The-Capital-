@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-01T02:15:47.013894+00:00",
+  "recorded_at": "2026-11-02T02:20:22.514546+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -33,16 +33,16 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$115/bbl",
-      "source": "CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX3FoR2YwS1E1NHdKMjRWd25HdXNveENYWUFCbmhnSEVEMEoxOGc3UklJQ2tCVlRPZ1E2Qk9iTDRvclhGMUo2a1h4Z0txcVVlS3ROU0MtNF8wRWpwcElSTEsxbVRMb1JSR3pCOXVocnZyQWduclpoVmcwekRRazZIQkFrcVJWdXp3VTBGSGR6ZEplbmxkQXZfQTAyLXBfSTBUQmg3dUFvT3RtdEtEa1V4dW1McGVUZWh6UTg4OUlfVkgwM0lVT3Y0X20zR2ZBY2JiSUoxU3NrY3U1c2ZxaFZ4clhIRzhyMzQzeklxSnI4bUhZRUhfOHFsM0hEQdIBgAJBVV95cUxORWllZzBlaGttTDRnYUxyWGRHX1U5MGwxalgtTW9hdDlhVTRCOXVqM3lScEM4anc1eDFjOVhWNDNZV1h2MFNzVUJ1dF_6ZGRxbWhUX0Joazc4dTdkeU9OdVVoQ0x4ZFU5eTg5MjhKY25tQU14T1pvUHpZM1U1WWw0ZEhoNHJGREFmb2VzTjFIZjZrUWdTRGl1TUtnLUdJdXUyMFRjMjljcy1RaTluUHRZUjVaNjRLYUoyTmpubnJtdy1IeGpERjVGcVA3VXBidlNzY3N0UmxSemlyU1g2ajE3a2JtTmNQZUtzNWo5Y3AzNmNyQ2tkOGdvaEV4T0xrem5y?oc=5",
-      "recorded_date": "previous edition"
+      "value": "$111.00 - $112.00 range",
+      "source": "Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWHQ1ZFdNS1VnUFU3VHdMYndnc1dYZGVEMkxLaE5Ed0pydVM1aVltU2ZhTUp6TTBEMHdxT2pRQ0N5Q1hRM05xVzZIb2pMSzlWLTYtVU9JUE0wRU52bTUtSFpqLWdkeXF0d1VJRTRZZEoyU1ZERUtZRU94LXlxLVd2cjBaT09BV3ZxelBBMDlFVWVrTnJMQ25TTkZnV2VVVTlZNk9ZSkdpSC0tZWktWWluZnBMbXFmOXc5SklnZXdEbGNfWDlocEc0RjJ3TGxKbEdFR29iXzY4ZmdlUWVBTzVva3JQaw",
+      "recorded_date": "November 2, 2026"
     },
     "gold": {
-      "value": "Just above $4,000/oz",
-      "source": "Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTVxbWJvUF9QU3d1bXA2NHhMbFRfN0JwMUVfbm52T0Y1eENSbFM5SXdpVmZzMl9lcS1aaUFsREFBSTBTYlZQYUJPNllqUmJaV05BWVU2bE1KaGgzVE45TnpONVNmLUZVT2ZLbFlrSll5WHhfY2YtWDBZS1N2ajBMclJ0a3Qzc0FLZ04tXzg2dFpxLThKNDE0a0V6RFRFclYzUk1iMl90allsaTZFTWJvRzF3UjliZw?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Rebounded 0.7% to approach $3,900 after suffering its worst October since 2008",
+      "source": "Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0Ewa0FnbDd2dnZIVlhVRkxUUXdVMTcyWnVSSWFHUV9RQ2FFd3pqekNGN2FYX2tNUnNRSVp2aWNQQmhLaTFUZ0xabHdQZnRtbXM2RXliaEprTGxkdWd3YVA1V3dTRmNuX0JEenBRdUR1eHVmU25pUE56R3Bnb0RnN1JpRFl0TTJ1WlJvdXhrSDNtRXpMVVoHWC1zZ3lBYXd6MXZ5dEc0Nmpwc2JEd3hHb3pEVU1mWEZpR05XSGFBTmVkc3VpTWNuOUZkQkF5cW10bEZGMUp2TTFMRXg4UmREY2c",
+      "recorded_date": "November 2, 2026"
     },
     "usd_inr": {
       "value": "Threatening 95/USD mark",
