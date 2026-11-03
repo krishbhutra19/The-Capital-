@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-02T02:20:22.514546+00:00",
+  "recorded_at": "2026-11-03T08:03:36.662346+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -36,19 +36,19 @@
       "value": "$111.00 - $112.00 range",
       "source": "Moneycontrol",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWHQ1ZFdNS1VnUFU3VHdMYndnc1dYZGVEMkxLaE5Ed0pydVM1aVltU2ZhTUp6TTBEMHdxT2pRQ0N5Q1hRM05xVzZIb2pMSzlWLTYtVU9JUE0wRU52bTUtSFpqLWdkeXF0d1VJRTRZZEoyU1ZERUtZRU94LXlxLVd2cjBaT09BV3ZxelBBMDlFVWVrTnJMQ25TTkZnV2VVVTlZNk9ZSkdpSC0tZWktWWluZnBMbXFmOXc5SklnZXdEbGNfWDlocEc0RjJ3TGxKbEdFR29iXzY4ZmdlUWVBTzVva3JQaw",
-      "recorded_date": "November 2, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
-      "value": "Rebounded 0.7% to approach $3,900 after suffering its worst October since 2008",
-      "source": "Moneycontrol",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0Ewa0FnbDd2dnZIVlhVRkxUUXdVMTcyWnVSSWFHUV9RQ2FFd3pqekNGN2FYX2tNUnNRSVp2aWNQQmhLaTFUZ0xabHdQZnRtbXM2RXliaEprTGxkdWd3YVA1V3dTRmNuX0JEenBRdUR1eHVmU25pUE56R3Bnb0RnN1JpRFl0TTJ1WlJvdXhrSDNtRXpMVVoHWC1zZ3lBYXd6MXZ5dEc0Nmpwc2JEd3hHb3pEVU1mWEZpR05XSGFBTmVkc3VpTWNuOUZkQkF5cW10bEZGMUp2TTFMRXg4UmREY2c",
-      "recorded_date": "November 2, 2026"
+      "value": "Holds near $3,950",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU03WmxCbnZzNXBLNmlNTXc3MUtDWDBsQ1dIOU1yVHRzR1NKWUw5eXFjMEJINm9hRmNCSEc2WF8zeTR3MmZaYkF1YW1kSWpEeGFHV2p0RmFsWE5Pby1aRWZxTmNxYUZGRUF6T2Q2WWhyYXdjSjcyYnlVaEY0dmtxYmtRYm9uRVpaVDlSY3Q4SjlHd2x2U2d1YnBUYTB0c0xsOTl0YTFqemcwTF9VR0k5ZHBzRHA5X3YxZFlleGsyZw?oc=5",
+      "recorded_date": "November 3, 2026"
     },
     "usd_inr": {
-      "value": "Threatening 95/USD mark",
-      "source": "Pragativadi",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWC00YllmUU9hM1VWQW5jeVpjZThlZ0xuS0RwMXVxbVc4QkJaNEVWc1FRRzIwMG9pUEZNaXlsakVodEZETXpNMFZKMDJxTG15bWJVVTllMWNXTmxzdHhsUk5pRmFSODZxWllINUF1SjRlWnl5Znc5N3dEZmN2QU9ZeA?oc=5",
-      "recorded_date": "previous edition"
+      "value": "94.66 – 94.72 (Rupee opens higher as crude retreats)",
+      "source": "CNBC TV18 / Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWVFY0k0S0V4MzRtUXlsd3FKNXV6d3FpeDhDWHFmUnRwTGllQ1ZmUW8xaThLbGlLYVB5Mmp4dmc2a0ZiaU8xY1R2TzFZTFBLR1NrUXR0ZTRGdWF2UXlyMDhPeFdPT2w1SEZnRlpzYTdMb1N3ZXZ3emtlX0k2WTBnWVM1VURmU0tMcUpuTjhsRGJfZGxCSERSMlU0THVhZjFmVEtoWmRQXzJzMTVzbEs1aWNJTkLSAboBQVVfeXFMTVJNUnluNFlwYXFGZUx3OFJIZXFOdWhjb0R2d0RDekxLdWtKSlJ5REs2eDI3RzhiUFFIZjBWNzV5VXZJdzNySS1lOWg1WTQxaXgtSzdhRk5ZTXBjdU5vSlMyRHZpUkdwY3JFcE5CNFE0X2hmcmJEREtLV2Y5eEZkSkFLZDQ3aEpuX3JneEtWUmFndTNEWUtwa0sxYm1DWkE3UUZHOXFWMHF3dURiM2dHSjh5SmUwWGhYSEhB?oc=5",
+      "recorded_date": "November 3, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
