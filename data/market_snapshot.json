@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-03T08:03:36.662346+00:00",
+  "recorded_at": "2026-11-04T07:38:17.186872+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -39,16 +39,16 @@
       "recorded_date": "previous edition"
     },
     "gold": {
-      "value": "Holds near $3,950",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU03WmxCbnZzNXBLNmlNTXc3MUtDWDBsQ1dIOU1yVHRzR1NKWUw5eXFjMEJINm9hRmNCSEc2WF8zeTR3MmZaYkF1YW1kSWpEeGFHV2p0RmFsWE5Pby1aRWZxTmNxYUZGRUF6T2Q2WWhyYXdjSjcyYnlVaEY0dmtxYmtRYm9uRVpaVDlSY3Q4SjlHd2x2U2d1YnBUYTB0c0xsOTl0YTFqemcwTF9VR0k5ZHBzRHA5X3YxZFlleGsyZw?oc=5",
-      "recorded_date": "November 3, 2026"
+      "value": "Firm at $3,939 per ounce amid US midterm volatility",
+      "source": "Investify",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVRxcTJ2UjRsUFU1Z1V6eUJwTFgxOG1KRW1yeDV4NUxBRkNETVViaEw4SklXREVGMnVMcXBxNXAzU1o3RGpDVndRQmVxZFNpcUpBSGd1bnVIZmZnWEFVN0hFUm9DbGZzMGp0ajMwS2ZoRWs0bmlGSFBsVUREeDdiUGYxUXJJc1ptUlJvRUc1OTZsc0dpcnpUUnln?oc=5",
+      "recorded_date": "November 4, 2026"
     },
     "usd_inr": {
-      "value": "94.66 – 94.72 (Rupee opens higher as crude retreats)",
-      "source": "CNBC TV18 / Moneycontrol",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWVFY0k0S0V4MzRtUXlsd3FKNXV6d3FpeDhDWHFmUnRwTGllQ1ZmUW8xaThLbGlLYVB5Mmp4dmc2a0ZiaU8xY1R2TzFZTFBLR1NrUXR0ZTRGdWF2UXlyMDhPeFdPT2w1SEZnRlpzYTdMb1N3ZXZ3emtlX0k2WTBnWVM1VURmU0tMcUpuTjhsRGJfZGxCSERSMlU0THVhZjFmVEtoWmRQXzJzMTVzbEs1aWNJTkLSAboBQVVfeXFMTVJNUnluNFlwYXFGZUx3OFJIZXFOdWhjb0R2d0RDekxLdWtKSlJ5REs2eDI3RzhiUFFIZjBWNzV5VXZJdzNySS1lOWg1WTQxaXgtSzdhRk5ZTXBjdU5vSlMyRHZpUkdwY3JFcE5CNFE0X2hmcmJEREtLV2Y5eEZkSkFLZDQ3aEpuX3JneEtWUmFndTNEWUtwa0sxYm1DWkE3UUZHOXFWMHF3dURiM2dHSjh5SmUwWGhYSEhB?oc=5",
-      "recorded_date": "November 3, 2026"
+      "value": "94.56 - 94.61 (Rupee strengthened 14-19 paise in early trade on foreign fund inflows)",
+      "source": "Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFQ2SXgxYzc2cWtNMmh2T1M5bkRsSDhLd3Y2eVZ0VzAwZEpkTWVtbjdQODFoOF81cG9MamhITFBCSjFXaXBEQmNIclhKdnItQkstZ3BwLU5ZZ2hGQzdmc3BkX3VYejhIbkpXS2RfMC1MTkg4VHIyUWJ6MnNpeEpDX1U2eFZ4Smp5cjZzR2ZZUmdnbE5ZVkRaZUN1ZWF3MzRlbVFkZDl5eTdnMWFVNkE5QklENkc4N1pfbWpUatIBwgFBVV95cUxOUGpuWERUMWJETGJ6Zl9DWWdBYnpFeU9uazZVZFhfRUhJcEpsSDlwOFVWNFFBemNNUURDandoZTNpaWRFS0h3Q3c3RURicVRmQTlJWGNYdjYzWUJWOVYwZGpIdVNhbkRCWVFBcWs0NUg4YjYxRGpvYkVJbGhzVUNtOVBwVmMwVTZhWUFnaGw5MUZJSkZ6Wks4SHpMSXUyMEFNNXN4MTBWamNCMWZsSFhWTnZlbHJuZTRVY3dWN1FfVHFuQQ?oc=5",
+      "recorded_date": "November 4, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
