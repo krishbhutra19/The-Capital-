@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-04T07:38:17.186872+00:00",
+  "recorded_at": "2026-11-05T08:00:21.830515+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -21,10 +21,10 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "S&P 500 down 0.5%, Nasdaq leads selling on Alphabet miss",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tRjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-      "recorded_date": "previous edition"
+      "value": "S&P 500 and Dow Jones rally, Nasdaq 100 lags following US midterm results",
+      "source": "FXEmpire / TokenPost",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3d2eHdDNnBsYWxZZld2YnFTMFU5bnVYVVNxRmNlRjFxVWJSVmh4M3RucjR5bzRHLUI2ZF95dTVqcmpvVGVwZ2lhaWk3aTZ5a21MUnhnQnRsUlFkUHBnNjlrZjBzN1ZSSmhENDZZNmV5WGlpR3pqQ08wZ09kSEE2NHVUdmYzQk9oQUtXNkNDTm9rQ3NSWE00eUI5dFcxVGR5Ry1tbkxiNVZ3RFAzX3J1TG1hVFpHYWE2M3c?oc=5",
+      "recorded_date": "November 5, 2026"
     },
     "asian_markets": {
       "value": "Kospi soared 4% on Q3 GDP beat; Nikkei gained 2%; Asian stocks surged broadly.",
@@ -33,22 +33,22 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$111.00 - $112.00 range",
-      "source": "Moneycontrol",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWHQ1ZFdNS1VnUFU3VHdMYndnc1dYZGVEMkxLaE5Ed0pydVM1aVltU2ZhTUp6TTBEMHdxT2pRQ0N5Q1hRM05xVzZIb2pMSzlWLTYtVU9JUE0wRU52bTUtSFpqLWdkeXF0d1VJRTRZZEoyU1ZERUtZRU94LXlxLVd2cjBaT09BV3ZxelBBMDlFVWVrTnJMQ25TTkZnV2VVVTlZNk9ZSkdpSC0tZWktWWluZnBMbXFmOXc5SklnZXdEbGNfWDlocEc0RjJ3TGxKbEdFR29iXzY4ZmdlUWVBTzVva3JQaw",
-      "recorded_date": "previous edition"
+      "value": "Below $95 after a 9% crash, falling for the fourth straight day",
+      "source": "Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSWxJRG9kbGxvQU03Z1hPZGJ0bjNQcDRVa3V4U0hkNENyMGZxTkprSnpOcEZLOURLMHY2UGZkMk1WZ2dsLUQzYmtLNFo4Wk9NMHpLNUd2RXRGdWswY0pQSWsyb1NTdk4tTk5JSUpQVuc1pqSENRRFZkVzVpaVAyQmo4bmNQcGtOWWNmZ2lFYWRKSTZTTlhLRi1fbTZ0aHVkWW5JUW5LX0ZUdFpneWxqekdTLTVIR3dCLWtfS3JQdjlsMEh6WFczazVvR21DeWYtUmZ2RVk0TlNEbTFDak10TUQ0Y0JrTEFaX3QwaURiQ2FhblhF?oc=5",
+      "recorded_date": "November 5, 2026"
     },
     "gold": {
-      "value": "Firm at $3,939 per ounce amid US midterm volatility",
-      "source": "Investify",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVRxcTJ2UjRsUFU1Z1V6eUJwTFgxOG1KRW1yeDV4NUxBRkNETVViaEw4SklXREVGMnVMcXBxNXAzU1o3RGpDVndRQmVxZFNpcUpBSGd1bnVIZmZnWEFVN0hFUm9DbGZzMGp0ajMwS2ZoRWs0bmlGSFBsVUREeDdiUGYxUXJJc1ptUlJvRUc1OTZsc0dpcnpUUnln?oc=5",
-      "recorded_date": "November 4, 2026"
+      "value": "Surged past $4,130 ($4,113-$4,130 range) as dollar and Treasury yields tumble",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1MxRGVnd2pXLXhLV1VsSDhRV3JNUlQycWZBa1BjOUZDRElvcUVTX1VidjFFRXBZMUdGZ2MxdGMwWTd3ZlNfeS13ZXBDTFVjU1FvQnB2QUVCeU03WU1aWnFoZHNxejRUWlhQN1FfYkFfbU1TZ0Q2VU9mOHJRVktsazNjMl9mc3JYUHpuLUJqYk9udUtzRlpPOExtZHRXQVl4Q3g4WkZFQUJnQ1F4VmgyNHJTMmJwYlFvc1p4a0tYcHhKQkItVGdiMmNn?oc=5",
+      "recorded_date": "November 5, 2026"
     },
     "usd_inr": {
-      "value": "94.56 - 94.61 (Rupee strengthened 14-19 paise in early trade on foreign fund inflows)",
-      "source": "Deccan Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFQ2SXgxYzc2cWtNMmh2T1M5bkRsSDhLd3Y2eVZ0VzAwZEpkTWVtbjdQODFoOF81cG9MamhITFBCSjFXaXBEQmNIclhKdnItQkstZ3BwLU5ZZ2hGQzdmc3BkX3VYejhIbkpXS2RfMC1MTkg4VHIyUWJ6MnNpeEpDX1U2eFZ4Smp5cjZzR2ZZUmdnbE5ZVkRaZUN1ZWF3MzRlbVFkZDl5eTdnMWFVNkE5QklENkc4N1pfbWpUatIBwgFBVV95cUxOUGpuWERUMWJETGJ6Zl9DWWdBYnpFeU9uazZVZFhfRUhJcEpsSDlwOFVWNFFBemNNUURDandoZTNpaWRFS0h3Q3c3RURicVRmQTlJWGNYdjYzWUJWOVYwZGpIdVNhbkRCWVFBcWs0NUg4YjYxRGpvYkVJbGhzVUNtOVBwVmMwVTZhWUFnaGw5MUZJSkZ6Wks4SHpMSXUyMEFNNXN4MTBWamNCMWZsSFhWTnZlbHJuZTRVY3dWN1FfVHFuQQ?oc=5",
-      "recorded_date": "November 4, 2026"
+      "value": "94.55 against US dollar in early trade",
+      "source": "Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjAxdXhya2FkQlllU2dqNEEySEVUR3Rndzdyd0NzUHJSbkdZSzR5WGpXVDF0RHM3RV9qRThmTkREcVNHNEJSbEdNZUlNNHVGT3VQUVpkOUZneE1MbjAyZFZEVHlZT0VSVUg5UzlqYWJYSUc4MkFaSnVBYlNSMG5VSElVMWhXNU9ROWMyOUZlQi1feW9pZfdkRTBwVWZzOVNWbVNaS2FrLVM3N0FXZk1xeHRQeUg?oc=5",
+      "recorded_date": "November 5, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
