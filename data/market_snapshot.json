@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-06T08:03:11.499030+00:00",
+  "recorded_at": "2026-11-08T07:34:11.722230+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -24,7 +24,7 @@
       "value": "Dow Climbs 360, Nasdaq Adds 278, S&P 500 Gains 45",
       "source": "TV News Check",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0pyRllNNFhQdFRFSkVpZ2l5YmFrdHBzR1dHenVULWk0dlhKVk1ycWRYMXhOUlBQN2hTZ2k5emdFWV9LS1FQUVdjWS1UTGJZTi1kX2pDSUlnRkY5QTBLZkpKcndRS1daNDhMbTMzbXlrcDZHYUtaamt2M1NxZDhqRnBaeDE4ZGIwS3Vnd01VM3FEUQ?oc=5",
-      "recorded_date": "November 6, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Kospi soared 4% on Q3 GDP beat; Nikkei gained 2%; Asian stocks surged broadly.",
@@ -36,19 +36,19 @@
       "value": "$100/barrel",
       "source": "Moneycontrol",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNR0dsYXhiWDVuMTA2YVgxby1iOWVaejFRRElvWHoxYmpjNDFwSnZUMnRqYm5IRmhyQWwwX3F5UnJrSjdkQThQMzhFWFRac052a0Rsd3BqUW1OUTN2cmg1a0g0TmNnVDB5aWcweHV6QjlTejJtZHRuWS1hU2lMcVBYbjFxc0l5OFUyNUpXY0thTFhPZHkwaHRaTE5vSWxHSFQyMDNYMFo4LVhZVFgwaU1sTG96RVFPY09DaUdQZk9ON2tiM2lKZ2JNc2lmb0p3VlRUX0FWQ0k0NDZlSmlCUWJwOVF0bmZ0SldCamRTVVZrMmdOR2l0UVVNMmxuVVV2Y2RxdzdDc2x4YW1VWkxFRUMtc2czNXNtcnFRdFR2enFkY9IBnwJBVV95cUxNR0dsYXhiWDVuMTA2YVgxby1iOWVaejFRRElvWHoxYmpjNDFwSnZUMnRqYm5IRmhyQWwwX3F5UnJrSjdkQThQMzhFWFRac052a0Rsd3BqUW1OUTN2cmg1a0g0TmNnVDB5aWcweHV6QjlTejJtZHRuWS1hU2lMcVBYbjFxc0l5OFUyNUpXY0thTFhPZHkwaHRaTE5vSWxHSFQyMDNYMFo4LVhZVFgwaU1sTG96RVFPY09DaUdQZk9ON2tiM2lKZ2JNc2lmb0p3VlRUX0FWQ0k0NDZlSmlCUWJwOVF0bmZ0SldCamRTVVZrMmdOR2l0UVVNMmxuVVV2Y2RxdzdDc2x4YW1VWkxFRUMtc2czNXNtcnFRdFR2enFkYw?oc=5",
-      "recorded_date": "November 6, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Surges Back Above $4,000",
       "source": "FXEmpire",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnI0QklSODR0U05pcVVsYV9FLUV5ejR3NFAwNmYtSHBhZG1uNVBOS2NMSG5Qc3k0ODFSTVByUFBhYUNLMmYwSDVweEdlbzZYZTg5bldGS2pCR3RCWEhsR3RrUmNtRU5rRnF5bVhQTS1pc2dGZE5FRkR4UTVfVFY0R091dllNU25xZzdEVW5TZnJPV09TOVJQbGNKSEkybUEwcnZiVERVZDZmR1Q2S3RDcHppTV8xeWQxR3FpMGxsWTJwMlk?oc=5",
-      "recorded_date": "November 6, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "94.50",
       "source": "IBTimes India",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1poQ2x0VWRPTF82YnlhT0x5Rks4b3NMcEFTbk5aMmRTdXR5Q3FSekFSUXowYnNIZ1A0d3QwWjRmN3RfX1laRzBXOFBVazdlemtSdEgzVkxvcXNFWGk5OUFLZG54NUZaS2gwWXc5aVBud3dMZjBSWHp0bXhwb2FybHYydS1YTFdGMThQMlBUWWN4dw?oc=5",
-      "recorded_date": "November 6, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
