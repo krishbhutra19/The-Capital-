@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-09T08:11:28.125692+00:00",
+  "recorded_at": "2026-11-10T08:33:07.863794+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -30,25 +30,25 @@
       "value": "Nikkei 225 jumped 3.37% to 59,368.2",
       "source": "JournalArta",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajBCU2MzYzJTLXdBVXIwS3Iwb3g1M1d6ckwtbG8teHlVVWhxaUJiZXBHeUxvbGxpalB5MHJwSlUtYTlMUTkwQTh1RkFvN0ZhVkpUWWxGY0FiMElTYldVLTkyUl9adU5nUmx5Uzlsc25PQWZWTEh6d3FaaWMyVEVVWFpTT3dmdU5jc0RGbHcxd3dwYjNYdnNxVUJHWWo4WGRWQnRieGZRTERmT3doRFJB?oc=5",
-      "recorded_date": "November 9, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Below $99 per barrel",
       "source": "Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY1p0TkExN2poaXBDQlR3NVBCem5YR3gwWW54aXVUQmc3eW5rMGpPa3RBYUk3VnZmWDR1OHY4T1lrYkpKbVJienVlMFE3U1hwbTFPUUh5V2ZiYnFxVTJUd1YxUG8xTndmXzc3Nlotb1pTMDA3UklQT0NrSmFCa1U0dW9ic2hZaEFuYks5Q2t2enloMENVdXVxTFpMdUtUQmdGQ3diRWpHODhNQVQyZ0lfMTFaaDdGY2xDYWYyUFF4RlVxNTg1MG5UdVNaYm5SUlVpSXhiV1hVcmJVNGtNb1pYT042cXU5WDFERjhLRnA4QTFrSGk3bWxXSDNjdS1BaEFiRHR2SktR0gGGAkFVX3lxTFBjWnROQTE3amhpcENCVHc1UEJ6blhHeDBZbnhpdVRCZzd5bmswak9rdEFhSTdWdmZYNHU4djhPWWtiSkptUmJ6dWUwUTdTWHBtMU9RSHlXZmJicXFVMlR3VjFQbzFOd2ZfNzc2Wi1vWlMwMDdSSVBPQ2tKYUJrVTR1b2JzaFloQW5iSzlDa3Z6eWgwQ1V1dXFMWkx1S1RCZ0ZDd2JFakc4OE1BVDJnSV8xMVpoN0ZjbENhZjJQUXhGVXE1ODUwblR1U1piblJSVWlJeGJXWFVyVlU0a01vWlhPTjZxdTlYMURGOEtGcDhBMWtIaTdtbFdIM2N1LUFoQWJEdHZKS1E",
-      "recorded_date": "November 9, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
-      "value": "Crossed Rs 1.43 lakh on MCX",
-      "source": "Zee Business",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdmFjTEtDb3R4N3JXeEIyWEJNbV9SU05mQ3k4YU9BTFZHY1VCakQ4VkxIOTdYWWlQS3FQYkJ1d2wtMFQtejZ0amV2cnNKZGhkaTJyWElfU09zakxOdHJ0bzhVdGZNVWdUZ2xDVUlod1Q0UWRIbE9LTnJfWHh1R2ItcVh2a3F5c0hwRmdMbE1tWkllXzBzV0dxaFROZFNWVjVpUTFoYWQxNWplWnVRcmNjQVNQd3NsMnliQ1NSeHNlb2FKY250FldxS3BjOVJHQXo5N2ZGWDNNOEZESzdtWVE",
-      "recorded_date": "November 9, 2026"
+      "value": "Steady between $4,116 and $4,130/oz as investors await US CPI report for Fed rate signals.",
+      "source": "Investify",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0hGcmVCNXFqLWRhWkNqUm16cUV6dnRoeUVFN2NFTjR6b3laZ0MtVmhYN0NNZ184LVZzRVY0akE0TnpxakFkZjk1YnU0TnlFNkcwTWxYUkRlX0xrbmY4Wmo2bnUxMlRkX1Jhc3o2NEQ5Q0xGOVlReEZpQ2ZEYmk4UXdQTFdkR05EcWtJMXZWRUFicEp4?oc=5",
+      "recorded_date": "November 10, 2026"
     },
     "usd_inr": {
-      "value": "93.74",
-      "source": "PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXpZZVZ3Z2NGZDkyQVB6ZDFIZkJIX0lsSjFyVEVJbEhScW4tV1lmX2RCNkxFNWFtRHlGczZnanhETGViLWVydFNvdC1Tc1M1cS01a0lNczNlU1BLcFFrczEyRW5xSUFjWTdodV93SEExOS1PMnVyNHNLSjV3VGMzaWE4Um1JOW5Kc1NKWEoteEw5UzdZV0Y1d2VsaFFiUWY4eG1Tb0lTOWt3ejV2ZUZOQnN6S1duZ9IBwwFBVV95cUxNQjdLZWdRZGhPMGgtWDFyVW5LZ09YZEV2a2V1VnRqbzR5d3FYSmZzRE1INlR3MGVYSmVfYXgyUGlSRFFsMk11UlpDWEZzZmN1cEJuS253bDdUejgzMUlCd01oNUQ4TEZ0bVE3TTM4LUY3aEF4cUdhZ3lOdjRqaUxheDN0Q2MzUzBmYTJaV2hiOUxoS1lBNzJId1hpWUNUZW8yTDVFYVpqaTFOaG5HZ3l6REQ3RVRjRl9WQWQ1SEJRd1dQdTQ",
-      "recorded_date": "November 9, 2026"
+      "value": "Gained 5 paise to close at 93.93 against the US Dollar.",
+      "source": "India News Network",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUhad2tsSmNWeHhQV1BMQUFRLW1BdDYtazI3VE5HT3ppdDMxN016amFOazBrWXBucVFrbW8zVVNrZ3d6VEpZOVRDUmRkeElWNnlHMFVxMWxyeFJxVkpIZDV4emNjNkYzUkRMQk5xMldLRk1BYnE1ZUg4VHVsMDIyTXgzdm9rNUg2WXZrUFM4ZDdURl83cDVfV2s4QklUSkJ6eHVr?oc=5",
+      "recorded_date": "November 10, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
