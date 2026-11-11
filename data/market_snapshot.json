@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-10T08:33:07.863794+00:00",
+  "recorded_at": "2026-11-11T07:52:27.021170+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -42,13 +42,13 @@
       "value": "Steady between $4,116 and $4,130/oz as investors await US CPI report for Fed rate signals.",
       "source": "Investify",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0hGcmVCNXFqLWRhWkNqUm16cUV6dnRoeUVFN2NFTjR6b3laZ0MtVmhYN0NNZ184LVZzRVY0akE0TnpxakFkZjk1YnU0TnlFNkcwTWxYUkRlX0xrbmY4Wmo2bnUxMlRkX1Jhc3o2NEQ5Q0xGOVlReEZpQ2ZEYmk4UXdQTFdkR05EcWtJMXZWRUFicEp4?oc=5",
-      "recorded_date": "November 10, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
-      "value": "Gained 5 paise to close at 93.93 against the US Dollar.",
-      "source": "India News Network",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUhad2tsSmNWeHhQV1BMQUFRLW1BdDYtazI3VE5HT3ppdDMxN016amFOazBrWXBucVFrbW8zVVNrZ3d6VEpZOVRDUmRkeElWNnlHMFVxMWxyeFJxVkpIZDV4emNjNkYzUkRMQk5xMldLRk1BYnE1ZUg4VHVsMDIyTXgzdm9rNUg2WXZrUFM4ZDdURl83cDVfV2s4QklUSkJ6eHVr?oc=5",
-      "recorded_date": "November 10, 2026"
+      "value": "93.70 (strengthened by 7 paise)",
+      "source": "Observer Voice",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalVJLTl4U1o1Mlh3NndpSDJMR3lWUmFIRl9jR0laVUZwbVBraXMtQ29oaElzal9kbFE5NG9BSHpCSW40SjI1cjBDUnFZaF9KNGZ6OTNDbC12amZHaWN0XzFLT2Vld3pDOXF6ZzdnQm5HdWtVS0xjaW53UUlZUmo1OWpaeWNqZktNTzhIVXhaT0VTcUlmd09YSi1ic1dybXNyY0lUcTQ4THlfTWpUOUNjV1NwWWNDTlZYektj?oc=5",
+      "recorded_date": "November 11, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
