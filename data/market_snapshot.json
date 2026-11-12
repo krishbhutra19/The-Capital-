@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-11T07:52:27.021170+00:00",
+  "recorded_at": "2026-11-12T08:29:19.209757+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -33,22 +33,22 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "Below $99 per barrel",
-      "source": "Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY1p0TkExN2poaXBDQlR3NVBCem5YR3gwWW54aXVUQmc3eW5rMGpPa3RBYUk3VnZmWDR1OHY4T1lrYkpKbVJienVlMFE3U1hwbTFPUUh5V2ZiYnFxVTJUd1YxUG8xTndmXzc3Nlotb1pTMDA3UklQT0NrSmFCa1U0dW9ic2hZaEFuYks5Q2t2enloMENVdXVxTFpMdUtUQmdGQ3diRWpHODhNQVQyZ0lfMTFaaDdGY2xDYWYyUFF4RlVxNTg1MG5UdVNaYm5SUlVpSXhiV1hVcmJVNGtNb1pYT042cXU5WDFERjhLRnA4QTFrSGk3bWxXSDNjdS1BaEFiRHR2SktR0gGGAkFVX3lxTFBjWnROQTE3amhpcENCVHc1UEJ6blhHeDBZbnhpdVRCZzd5bmswak9rdEFhSTdWdmZYNHU4djhPWWtiSkptUmJ6dWUwUTdTWHBtMU9RSHlXZmJicXFVMlR3VjFQbzFOd2ZfNzc2Wi1vWlMwMDdSSVBPQ2tKYUJrVTR1b2JzaFloQW5iSzlDa3Z6eWgwQ1V1dXFMWkx1S1RCZ0ZDd2JFakc4OE1BVDJnSV8xMVpoN0ZjbENhZjJQUXhGVXE1ODUwblR1U1piblJSVWlJeGJXWFVyVlU0a01vWlhPTjZxdTlYMURGOEtGcDhBMWtIaTdtbFdIM2N1LUFoQWJEdHZKS1E",
-      "recorded_date": "previous edition"
+      "value": "$91 per barrel",
+      "source": "Investify",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEFtWjlIZUZVV3VLaF81Tko5bjRuUktlQUVnNV9fRE1DdHFKVHRwcDRDb2tua18xZ2lzYWdfRTU1UGlhdU5OUXVOQmRDM3Nwb1M5dUZodTFqVmpUQ0JTWDhiazExd0lJN2NhXzNRbXlYRmtCM1hWdEFuZ2M5Q3RvYjliMWFIQ1R2Smx3empfbVRQUQ?oc=5",
+      "recorded_date": "November 12, 2026"
     },
     "gold": {
-      "value": "Steady between $4,116 and $4,130/oz as investors await US CPI report for Fed rate signals.",
-      "source": "Investify",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0hGcmVCNXFqLWRhWkNqUm16cUV6dnRoeUVFN2NFTjR6b3laZ0MtVmhYN0NNZ184LVZzRVY0akE0TnpxakFkZjk1YnU0TnlFNkcwTWxYUkRlX0xrbmY4Wmo2bnUxMlRkX1Jhc3o2NEQ5Q0xGOVlReEZpQ2ZEYmk4UXdQTFdkR05EcWtJMXZWRUFicEp4?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Below Rs 1.4 lakh/10g on MCX",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNN0gxTXNQcy1laTJteklCYm40c0daU1FoTkdqUDZiVHNJOUpZbTJtTi1OTVpmSEpoRnBqWUJYS19hOGVKV1YxSHlhVVI1RnhTNm1Ed2p1SGpBWHptRFRzMXBPdnNZREhwNDdGVnB4TU1BSkVmdzFCb2h2SzJPNEdzUUpWYXJXbWp3ZHFsVVQwOTNMY01LQWVHMlZzY3otVi1tMmdfN3NZM0RZNFQtVGt1V0UzcUFxWG0wanV6VG1tVTh2RWNNX2JUWlJiQ0dvX2tObnIzRTgwX24yWFdNVkxZVUJFNHBPb1dvVDd0X2dvSjU5TGNOYXUyYWFmcEh4Yk83MmhzVXJ6ZnRra29xeHgxZVlHOHZPeU1vMURJU0NsbWZneEFuZmw0QW15UFZLc3dnZGtmUdIBugJBVV95cUxPRWlOZkZZS3JIbnRnWDY3M204RzVQMGdBTlpyUHRDMzhGaE95MFhQRmFjNWRQS3Z2VElSWGpvZko1N3hYcFV3enN2NzBRWnBPYUlrX2ZrWkZvdXVvXzZrN21fbkJjSlUzUTlZQ0dRYXlVaEJZZlM2RW1YSGE0VHF2dkcyRGc3Wk1tbXRRenB0b2dscU55eDdiTFBhT3NqcjA2dGNrdGZoUmdOemFPZUNvX0txSENyNXNyUjd6UlRZLUxGWncya1pIRmhJX0NFY2l0QkZTRUh1QVV2eHgxS0pnbXFJckt2RzRuVXdZdVhUa0kzRFRxemgxeG5fWFViZVg0Q0N6azJGbnVqY19Od3ZCWkY5WXE1Q210MGNXeXNtc2hGT1BoaDdmX09YNnQ1Tk1rVnY3VXZsTzg5Zw?oc=5",
+      "recorded_date": "November 12, 2026"
     },
     "usd_inr": {
       "value": "93.70 (strengthened by 7 paise)",
       "source": "Observer Voice",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalVJLTl4U1o1Mlh3NndpSDJMR3lWUmFIRl9jR0laVUZwbVBraXMtQ29oaElzal9kbFE5NG9BSHpCSW40SjI1cjBDUnFZaF9KNGZ6OTNDbC12amZHaWN0XzFLT2Vld3pDOXF6ZzdnQm5HdWtVS0xjaW53UUlZUmo1OWpaeWNqZktNTzhIVXhaT0VTcUlmd09YSi1ic1dybXNyY0lUcTQ4THlfTWpUOUNjV1NwWWNDTlZYektj?oc=5",
-      "recorded_date": "November 11, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
