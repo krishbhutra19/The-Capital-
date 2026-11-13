@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-12T08:29:19.209757+00:00",
+  "recorded_at": "2026-11-13T08:13:13.729488+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -33,22 +33,22 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "$91 per barrel",
+      "value": "On track for second weekly decline, down around 2.4%",
       "source": "Investify",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEFtWjlIZUZVV3VLaF81Tko5bjRuUktlQUVnNV9fRE1DdHFKVHRwcDRDb2tua18xZ2lzYWdfRTU1UGlhdU5OUXVOQmRDM3Nwb1M5dUZodTFqVmpUQ0JTWDhiazExd0lJN2NhXzNRbXlYRmtCM1hWdEFuZ2M5Q3RvYjliMWFIQ1R2Smx3empfbVRQUQ?oc=5",
-      "recorded_date": "November 12, 2026"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2RRbldLRXpNNlk0VW5Lek5famdRRWh0aWdjaXRyRl8tdFhkZDVLUWpPRC1scEpFLWV3OFZWR3kwXzcxTWUxYnJVU0hLZDJTS3FOcTRqVFZuNnZBdWhvS2xpb0NtQkIzQ3ZSMnRsdWZyTms3SHlodHJnbURlQVNlQlBOX0FhS0l3VGhFMWtkYkthZlRlVFc5UjlzMXZ4ZDNBSHZiZnZn?oc=5",
+      "recorded_date": "November 13, 2026"
     },
     "gold": {
-      "value": "Below Rs 1.4 lakh/10g on MCX",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNN0gxTXNQcy1laTJteklCYm40c0daU1FoTkdqUDZiVHNJOUpZbTJtTi1OTVpmSEpoRnBqWUJYS19hOGVKV1YxSHlhVVI1RnhTNm1Ed2p1SGpBWHptRFRzMXBPdnNZREhwNDdGVnB4TU1BSkVmdzFCb2h2SzJPNEdzUUpWYXJXbWp3ZHFsVVQwOTNMY01LQWVHMlZzY3otVi1tMmdfN3NZM0RZNFQtVGt1V0UzcUFxWG0wanV6VG1tVTh2RWNNX2JUWlJiQ0dvX2tObnIzRTgwX24yWFdNVkxZVUJFNHBPb1dvVDd0X2dvSjU5TGNOYXUyYWFmcEh4Yk83MmhzVXJ6ZnRra29xeHgxZVlHOHZPeU1vMURJU0NsbWZneEFuZmw0QW15UFZLc3dnZGtmUdIBugJBVV95cUxPRWlOZkZZS3JIbnRnWDY3M204RzVQMGdBTlpyUHRDMzhGaE95MFhQRmFjNWRQS3Z2VElSWGpvZko1N3hYcFV3enN2NzBRWnBPYUlrX2ZrWkZvdXVvXzZrN21fbkJjSlUzUTlZQ0dRYXlVaEJZZlM2RW1YSGE0VHF2dkcyRGc3Wk1tbXRRenB0b2dscU55eDdiTFBhT3NqcjA2dGNrdGZoUmdOemFPZUNvX0txSENyNXNyUjd6UlRZLUxGWncya1pIRmhJX0NFY2l0QkZTRUh1QVV2eHgxS0pnbXFJckt2RzRuVXdZdVhUa0kzRFRxemgxeG5fWFViZVg0Q0N6azJGbnVqY19Od3ZCWkY5WXE1Q210MGNXeXNtc2hGT1BoaDdmX09YNnQ1Tk1rVnY3VXZsTzg5Zw?oc=5",
-      "recorded_date": "November 12, 2026"
+      "value": "Holding near $3,900 / hitting 13-month low before US PPI data",
+      "source": "Investify",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGNBYmNlaHpPTVhxV2k5RUtRSGJLT0VJX3lkaDNXb0EtZE1mWnY2emVib3ZXY1NoT3pnR1hSRjNWM01naFdkRzBmN0RndlZmblpQdmFGYnQ2N1VlTlN0b3VOTWJyeENlU0lxUVU3UmVkRWR2M29NcTZjY3JFaHZSa2ZOVTlEcEk5ZUpKVFEwMmFXTDZuNElaR3pSWTN5Vl9xalp6Mg?oc=5",
+      "recorded_date": "November 13, 2026"
     },
     "usd_inr": {
-      "value": "93.70 (strengthened by 7 paise)",
-      "source": "Observer Voice",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalVJLTl4U1o1Mlh3NndpSDJMR3lWUmFIRl9jR0laVUZwbVBraXMtQ29oaElzal9kbFE5NG9BSHpCSW40SjI1cjBDUnFZaF9KNGZ6OTNDbC12amZHaWN0XzFLT2Vld3pDOXF6ZzdnQm5HdWtVS0xjaW53UUlZUmo1OWpaeWNqZktNTzhIVXhaT0VTcUlmd09YSi1ic1dybXNyY0lUcTQ4THlfTWpUOUNjV1NwWWNDTlZYektj?oc=5",
-      "recorded_date": "previous edition"
+      "value": "94.05 (Rupee gains 7 paise in early trade)",
+      "source": "Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmJ0cVBsOWdrZU54MzFSMlpPOHltZksxbEJSTnRnTEpxMkMzTXE5d1d5TExWMk9RdmpGVEZvSTJTb0xXb0RXM0J5dlBzUV83cGh5S1ZvSUlFSzBIV19nQ3l1M3hhR0xHU2RQd0ZieVlPcFlXSktucmxOaWxBSW9fbnYxQ2J0X2NVMnhpVVhUSFdBcnZnWThyTmxzdk1FRFYtVTdEN1hIeXY2MmpKXzZjS2xOR1Z6TWFZTnVBdXVELWw5LTN2V3NmOFdoWkdXaknSAdQBQVVfeXFMT082NjJKZTNzRG1EZHc5eHIza1VOVmdIZF9YRi1uSXBFQTczQl9KRDI0Z0pqajY2NjdCX2ppQWliN00tdTcyQ0lmR1RBVjAxRE5oNGJJR2wyVzQ0djVzQXlaazAwNk53WEJVa0VGTEVsX3hNV2FRd2lIOEl4c0RvajN3bnJBcy1RXzRFbHIzZmNOVDNOYTkwNkhKXzRRdTNmZjhxMVVjU3B5MzV1WnlHcUtFWGZtbzNsVlREc0ZLbkVBcDJLSnNrNU9xM0dPY19qNkI3RWo?oc=5",
+      "recorded_date": "November 13, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
