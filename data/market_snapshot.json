@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-15T07:58:42.033424+00:00",
+  "recorded_at": "2026-11-16T08:07:00.116127+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -39,16 +39,16 @@
       "recorded_date": "previous edition"
     },
     "gold": {
-      "value": "Holding near $3,900 / hitting 13-month low before US PPI data",
+      "value": "Holds near $3,870 ahead of Fed remarks",
       "source": "Investify",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGNBYmNlaHpPTVhxV2k5RUtRSGJLT0VJX3lkaDNXb0EtZE1mWnY2emVib3ZXY1NoT3pnR1hSRjNWM01naFdkRzBmN0RndlZmblpQdmFGYnQ2N1VlTlN0b3VOTWJyeENlU0lxUVU3UmVkRWR2M29NcTZjY3JFaHZSa2ZOVTlEcEk5ZUpKVFEwMmFXTDZuNElaR3pSWTN5Vl9xalp6Mg?oc=5",
-      "recorded_date": "previous edition"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDVjZ3JBbFBJMWN3Ti1FbUZvSkkwdnBVSHZoSUM0WG5OVTM4RnhZZHZtYUF6M1JORXhXM2ZZcE5PcXZwbkZWNXR0cks3SUk4YW96eW9Rc0c3WGdZTE9OTFpFT1U3YWRKa1FHLXVCaWMwZE56b0FjZVVQZWxrek9mSzdhVW1FRWFNTUZnNEd0d3NTR0wwd3c?oc=5",
+      "recorded_date": "November 16, 2026"
     },
     "usd_inr": {
-      "value": "94.05 (Rupee gains 7 paise in early trade)",
-      "source": "Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMmJ0cVBsOWdrZU54MzFSMlpPOHltZksxbEJSTnRnTEpxMkMzTXE5d1d5TExWMk9RdmpGVEZvSTJTb0xXb0RXM0J5dlBzUV83cGh5S1ZvSUlFSzBIV19nQ3l1M3hhR0xHU2RQd0ZieVlPcFlXSktucmxOaWxBSW9fbnYxQ2J0X2NVMnhpVVhUSFdBcnZnWThyTmxzdk1FRFYtVTdEN1hIeXY2MmpKXzZjS2xOR1Z6TWFZTnVBdXVELWw5LTN2V3NmOFdoWkdXaknSAdQBQVVfeXFMT082NjJKZTNzRG1EZHc5eHIza1VOVmdIZF9YRi1uSXBFQTczQl9KRDI0Z0pqajY2NjdCX2ppQWliN00tdTcyQ0lmR1RBVjAxRE5oNGJJR2wyVzQ0djVzQXlaazAwNk53WEJVa0VGTEVsX3hNV2FRd2lIOEl4c0RvajN3bnJBcy1RXzRFbHIzZmNOVDNOYTkwNkhKXzRRdTNmZjhxMVVjU3B5MzV1WnlHcUtFWGZtbzNsVlREc0ZLbkVBcDJLSnNrNU9xM0dPY19qNkI3RWo?oc=5",
-      "recorded_date": "previous edition"
+      "value": "94.13, gaining 6 paise amid oil price drop and strong foreign inflows",
+      "source": "Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmdaaU5IQzJ5bGdsNVVIX0Z3ME5KYlBzVHZsNDZURGZuakE5MjZycTZNVk1FLVFnTXZYaVhONHl5ai14Wm0zNlpvaEUybUZSQkhpeDYzRjN6R3dzSlZsMi1ybHJoeGNZajBaMlhwcnRPM29tbTNreGdBVzNmMUJnZkJ3OEstNmllQTVGTVZHaDFLd3F3RjlCZGI2WHVEbklsVC11dnBRX2xlVXAwTXFPR0FqTdIBuAFBVV95cUxPWlJBcE5NVGhacWI1Mlo5SVdzZ054RWw5VDhENkZnSXhlTTNtQjh3YmlBbEl4VDQ3aGl4ZEdra19OU3ZjU3BLaEhROU9aVl9vU0J6bExkYUItdjhGWnBQdXNoQUpESXVoc1QtelFZTzhtWGtSck92dnBONUdNbmIwUkNPZU1Lc1FrU1NlU3lXNjl4Wm1KaGpzR1M0YnBZZm1LM1ZDLVNIWXBTazdBVjJRUThkWXdjdzR0?oc=5",
+      "recorded_date": "November 16, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
