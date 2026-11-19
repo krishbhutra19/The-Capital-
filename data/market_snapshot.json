@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-18T08:41:36.654987+00:00",
+  "recorded_at": "2026-11-19T08:57:10.247493+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -33,22 +33,22 @@
       "recorded_date": "previous edition"
     },
     "brent_crude": {
-      "value": "Below $93 per barrel, sliding 13% from November highs",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWG96U1laSG9Ya3ZZWHl4OTBYMnl1WUt5V1NOYXhlWUNEcWR5b2ZKVzFEWlVLbW1KQWVZSTBCSnJncmF5YUNRQTdsOW1DWlAyU2x1QnNfTURxM01pRkJ3eVVfWDJ4bHZrcTB6NENGUkFLdzZLRWdka3FNYzlQZVFrb2FtNU0xbnlVT0Z3TkQ5MHJpT1p0NmpHZGdvTjZnNlFidVl6eHdhdVpZVHNqTVhPeXAxY1VxcWtZVHFzQmFyUXhYclUtemZOS1RVYTUtRkJxeEdRVWg4eEV0SVNHdDdmNXhYSdIB4wFBVV95cUxPWG96U1laSG9Ya3ZZWHl4OTBYMnl1WUt5V1NOYXhlWUNEcWR5b2ZKVzFEWlVLbW1KQWVZSTBCSnJncmF5YUNRQTdsOW1DWlAyU2x1QnNfTURxM01pRkJ3eVVfWDJ4bHZrcTB6NENGUkFLdzZLRWdka3FNYzlQZVFrb2FtNU0xbnlVT0Z3TkQ5MHJpT1p0NmpHZGdvTjZnNlFidVl6eHdhdVpZVHNqTVhPeXAxY1VxcWtZVHFzQmFyUXhYclUtemZOS1RVYTUtRkJxeEdRVWg4eEV0SVNHdDdmNXhYSQ?oc=5",
-      "recorded_date": "November 18, 2026"
+      "value": "Hovering near $92, steady as supply surplus softens sentiment",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-steady-after-sharp-fall-brent-hovers-near-92-wti-at-82-as-supply-surplus-softens-12792131.html",
+      "recorded_date": "November 19, 2026"
     },
     "gold": {
-      "value": "Holds near $3,870 ahead of Fed remarks",
-      "source": "Investify",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDVjZ3JBbFBJMWN3Ti1FbUZvSkkwdnBVSHZoSUM0WG5OVTM4RnhZZHZtYUF6M1JORXhXM2ZZcE5PcXZwbkZWNXR0cks3SUk4YW96eW9Rc0c3WGdZTE9OTFpFT1U3YWRKa1FHLXVCaWMwZE56b0FjZVVQZWxrek9mSzdhVW1FRWFNTUZnNEd0d3NTR0wwd3c?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Prices fall toward $3,500 test amid strong dollar and Fed rate outlook",
+      "source": "FXEmpire",
+      "url": "https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-breakdown-opens-door-to-3500-1436159",
+      "recorded_date": "November 19, 2026"
     },
     "usd_inr": {
-      "value": "94.13, gaining 6 paise amid oil price drop and strong foreign inflows",
-      "source": "Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdmdaaU5IQzJ5bGdsNVVIX0Z3ME5KYlBzVHZsNDZURGZuakE5MjZycTZNVk1FLVFnTXZYaVhONHl5ai14Wm0zNlpvaEUybUZSQkhpeDYzRjN6R3dzSlZsMi1ybHJoeGNZajBaMlhwcnRPM29tbTNreGdBVzNmMUJnZkJ3OEstNmllQTVGTVZHaDFLd3F3RjlCZGI2WHVEbklsVC11dnBRX2xlVXAwTXFPR0FqTdIBuAFBVV95cUxPWlJBcE5NVGhacWI1Mlo5SVdzZ054RWw5VDhENkZnSXhlTTNtQjh3YmlBbEl4VDQ3aGl4ZEdra19OU3ZjU3BLaEhROU9aVl9vU0J6bExkYUItdjhGWnBQdXNoQUpESXVoc1QtelFZTzhtWGtSck92dnBONUdNbmIwUkNPZU1Lc1FrU1NlU3lXNjl4Wm1KaGpzR1M0YnBZZm1LM1ZDLVNIWXBTazdBVjJRUThkWXdjdzR0?oc=5",
-      "recorded_date": "previous edition"
+      "value": "93.49, sliding 8 paise on Fed rate hike jitters",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/business/Economy/rupee-slides-8-paise-to-9349-against-us-dollar-in-early-trade/article68884931.ece",
+      "recorded_date": "November 19, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
