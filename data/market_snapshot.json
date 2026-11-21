@@ -1,36 +1,36 @@
 {
-  "recorded_at": "2026-11-20T08:43:21.942184+00:00",
+  "recorded_at": "2026-11-21T08:25:14.241088+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
       "value": "Below 25,450",
       "source": "Kotak Neo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "sensex_previous_close": {
       "value": "Down around 250 points",
       "source": "Kotak Neo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "gift_nifty": {
       "value": "Down 217 Points",
       "source": "JournalArta",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGhudUt6RHNXU1Zld1N6SU83b2dHdVNPaGVyN093bWpOOWtiWHhYeTVsYTNMQWR6NVE1RFBpejJEcXM5ZVpHN1Z0SER2eEJCaTd2THN2MmNYcXJSTjF0cE9EOEFJWnRnTWQwNTkyS1pFeFlZb1F0VjFyS0s3LTRTVDFQUzdBLU0?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "us_markets": {
       "value": "Down 7% across Dow Jones, Nasdaq, S&P 500",
       "source": "Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTzBDMm1BdlpCMjEzckljN19QVkt1T3FVYlhSSDd2QlItWWNhRkVSaVNCMzJhUWU5WnJfRHlLenUtcFd1SURucWF6TUdqZnlOd0k2NC1ycURKTkpYZW1jVlZDdndzNWpCZ0RpX0liSXg1OGRNSGd0QVRLQl8yb2NLOHZTc013MzFoemQ1eTRHOTlORU8wMmRESHUyS0hvYm5jcjdwbGU1MmRyYzVybEhUeldid3puZkJfbWh5emRUcTVBQjJjRUw1VVRnMVVheE0wTEVYcHdnWlA?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Nikkei 225 down 5.1%, KOSPI down 5.2%, Taiwan down 6.2%",
       "source": "24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWVRRSjMwbEJvY25tUmY4WEFkZDlYWDhDb2lwcDV5aEV4NnNNNTdSWjl0OHBYS3MyZmJ0RktHRGJDUWZ4ZjhDbHZsVF9GWlN0Y1VyZlROc1ZlcjlfTUgtR2Y0ZnpNdEkyTzdFMFJJbU5sckhMMUFrSnpmTjgySmIyOXpHdUZhTjd1VjE2OWpKUVNqQlV1eGRmVHlCckd6UjRQODVEUGo3ZHJBODFzNmFJQTNpWUJMQ2RNektENEhVS2xsNVRuUEpoamZqMmpVd2VBQ2s5dVVnZlczSllobks2RUFqVmswUF95Tmo5T2dEXzBXaklwcFlmczlPRmR3NXNHbUE1OC1R?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Hovering near $92, steady as supply surplus softens sentiment",
@@ -42,13 +42,13 @@
       "value": "$3,530.75 per ounce",
       "source": "JournalArta",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG1LTXdEMlV4U2s3enVFTUk1ZGdZOHl2TXc0SVBuRlV4S2pZMFFRZW1nYjhpMDh5TXF2Q0lndXNKRmctdEY5azY2WVp6aHRoM2RSZnlqdWhOUWdlcnFsMlItU21Bd21uUmtkY0M3U2U1bVhXajRUSVA2QVZqYkdQdHduMkxMTW53YXl5c0V4b2RnY1dhUUR1VXUwdFZLTHBOVmZXVkMtTURHTEs1d1dscGFPbHEwb2VabUVLcQ?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "93.15",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVljcmI3cENiQWtMZk1EdTkxWkZpT3pIWnExcWZyb2I0N0VfZXV5Y3BVVGVwSjh2T1Q2UzJKZkhmZzlFU0FHSV9uV1IyUVdrMDNJc3I5VzhzbkNTRno3S3VYdFl0RVBZQ1h3STI4NlJHcVNkaDIwaUtWQjNWaDkzblN0akNSSzRmQ2I0UXFJX25iSG1EcnlPcm9QTDRzNjZoZXpXZ1ZIV0NzZFZYTVRadU16MU1HR1I2YlhkWVQ0bWwxLW9XZHI2QUU1M0dwTk05b016VUxwdjV3UzFIQ1JqeXJFU2dNRE56elHSAe8BQVVfeXFMTVY3cEwzUU12WUxZenJGcVZIWTVyNjM4RGxRRTY1OGxEZ3ltNngyZWhUQUdUUmxxNjkzd3Rkdy1jVWhSVjhVcnN4NHY0YWMyMUoybElDZWJCZDFkWWNuYTZ1ZGZ4bXZrOHVhcmY2djVYOUNSbmVqVUJsMmNKc3Ffc2ZxVklEek9BSnRDZFMxTUNKcGtVUXpYcW82TTA1aFN1cHJXQ21ERjdQeDhiaWxldnplNVlrYkR2U1d3V1E1Q0U3T2NTcUktU1J1SEN6T0d6d2d3THY3ZUVSLURWODBXcE0yYjAwaVJGdmxIOFptdW8?oc=5",
-      "recorded_date": "November 20, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
