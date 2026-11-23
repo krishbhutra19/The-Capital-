@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-22T08:17:33.399989+00:00",
+  "recorded_at": "2026-11-23T09:16:54.700581+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -27,16 +27,16 @@
       "recorded_date": "previous edition"
     },
     "asian_markets": {
-      "value": "Nikkei 225 down 5.1%, KOSPI down 5.2%, Taiwan down 6.2%",
-      "source": "24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWVRRSjMwbEJvY25tUmY4WEFkZDlYWDhDb2lwcDV5aEV4NnNNNTdSWjl0OHBYS3MyZmJ0RktHRGJDUWZ4ZjhDbHZsVF9GWlN0Y1VyZlROc1ZlcjlfTUgtR2Y0ZnpNdEkyTzdFMFJJbU5sckhMMUFrSnpmTjgySmIyOXpHdUZhTjd1VjE2OWpKUVNqQlV1eGRmVHlCckd6UjRQODVEUGo3ZHJBODFzNmFJQTNpWUJMQ2RNektENEhVS2xsNVRuUEpoamZqMmpVd2VBQ2s5dVVnZlczSllobks2RUFqVmswUF95Tmo5T2dEXzBXaklwcFlmczlPRmR3NXNHbUE1OC1R?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Mixed; Kospi falls 3% while Taiwan's Taiex rises 2%",
+      "source": "MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVhDejd1ZXhxelJwSHdjajNEejRLeTFwQkJ0MTNkZnpmaTlZMGVRVXdFVWpURi1GZ0M2a1RWLUE0OWpoQV8yT3IyV0tKczhyY2w3NVR5WmFRdzZZdWhFQm5VeThsd2pCT1FJWVBkUlJ6dTNsR3IzZTVyN19SbHFVSHBWTEdjMWFCMEpYT1lSTnJtYXdlQWJjNmhnUQ?oc=5",
+      "recorded_date": "November 23, 2026"
     },
     "brent_crude": {
-      "value": "Hovering near $92, steady as supply surplus softens sentiment",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-steady-after-sharp-fall-brent-hovers-near-92-wti-at-82-as-supply-surplus-softens-12792131.html",
-      "recorded_date": "previous edition"
+      "value": "Vulnerable below $83.00 amid Mideast jitters",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWHZjRGJaMHlYX1U0YVJrVE40S21yYUJpWjdfQlZMMGxDNElsZGtUOUtUelJjQ09kWXA4QU5pWWUycDhPa3VaMzV4c2VEbkxUd0lmS3JhOVBrSjhHLW9EQ1I0VmkxUVZ2UE5zZTBKZmFTcGFHazhNd3daUXJzY25TVzR6amZBV3RtRUItWVdoekI2R3hFYjZwWndUQjBWeW5qME1RTkhaYmNSX3ZCbThJa1pIVDh4aVFNemhmVGllZzVLczhoMFktVjRySHgxdVh6SE5yQl9B?oc=5",
+      "recorded_date": "November 23, 2026"
     },
     "gold": {
       "value": "$3,530.75 per ounce",
@@ -45,10 +45,10 @@
       "recorded_date": "previous edition"
     },
     "usd_inr": {
-      "value": "93.15",
+      "value": "92.85",
       "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVljcmI3cENiQWtMZk1EdTkxWkZpT3pIWnExcWZyb2I0N0VfZXV5Y3BVVGVwSjh2T1Q2UzJKZkhmZzlFU0FHSV9uV1IyUVdrMDNJc3I5VzhzbkNTRno3S3VYdFl0RVBZQ1h3STI4NlJHcVNkaDIwaUtWQjNWaDkzblN0akNSSzRmQ2I0UXFJX25iSG1EcnlPcm9QTDRzNjZoZXpXZ1ZIV0NzZFZYTVRadU16MU1HR1I2YlhkWVQ0bWwxLW9XZHI2QUU1M0dwTk05b016VUxwdjV3UzFIQ1JqeXJFU2dNRE56elHSAe8BQVVfeXFMTVY3cEwzUU12WUxZenJGcVZIWTVyNjM4RGxRRTY1OGxEZ3ltNngyZWhUQUdUUmxxNjkzd3Rkdy1jVWhSVjhVcnN4NHY0YWMyMUoybElDZWJCZDFkWWNuYTZ1ZGZ4bXZrOHVhcmY2djVYOUNSbmVqVUJsMmNKc3Ffc2ZxVklEek9BSnRDZFMxTUNKcGtVUXpYcW82TTA1aFN1cHJXQ21ERjdQeDhiaWxldnplNVlrYkR2U1d3V1E1Q0U3T2NTcUktU1J1SEN6T0d6d2d3THY3ZUVSLURWODBXcE0yYjAwaVJGdmxIOFptdW8?oc=5",
-      "recorded_date": "previous edition"
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN3FWWmxDR2l6OVVjMWQwQ0p0VWJ4UGtrUHR5Q1VSZm5Fcjk4VllhcW9lSG0tZnZZTnZwYWc2ZTdzOHFhMFdEc1NQQldSMFJXVkxHSGIwV0wyc0p5RzRJakt5T184RWZIQ3F3M3NBak82MGJuUjBqZDdwQ2lfVU5oM2tEb1VhVjdQQ18xMGI3SE5obG1ZZUFXVVpnUjFjZ0RJUW1UVXo5UFJGMi1WN3lBdzNOaVdVVTlRclhsODFVUXpCLUxuYS15OWl1U04yMXdzMzhnaG1pNWpPQ2ZuTXpUZURoM1UteWRJQmVwUkI0dWpaT1VSbnfSAfsBQVVfeXFMTTFKT1dWVDhIYWE5blptdmJHV0hTVmpVY1o5NGVaeVYtdGtvVVI4bVdaZU44MG5HVkV3Y3hDQjlKbjd6WFhkLWxILXhSUFNEVHo1cjRTd2NXbVBzbHEzM2I5UTd2bGwyMFEzaVQ2UjQzYXhpNm9NcEFNcDZmckYzY3FYTmNZWHBzOTlLTG9za1NHSlNRbm9zMm1IMkxpdTJBYnsc3Ffby0wRHFOT1dWa1F6a0JndEhjeVdtU3FVcnp1clczdUF3R3ZOTWxVUV9qX1h3VEhhN2JhazB1RHh6SFBFbTVJY2hRVUZOMXdBYUtuemxRQS1VZ1RZckk?oc=5",
+      "recorded_date": "November 23, 2026"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
