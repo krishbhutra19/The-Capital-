@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-23T09:16:54.700581+00:00",
+  "recorded_at": "2026-11-24T11:13:15.153047+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -30,25 +30,25 @@
       "value": "Mixed; Kospi falls 3% while Taiwan's Taiex rises 2%",
       "source": "MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVhDejd1ZXhxelJwSHdjajNEejRLeTFwQkJ0MTNkZnpmaTlZMGVRVXdFVWpURi1GZ0M2a1RWLUE0OWpoQV8yT3IyV0tKczhyY2w3NVR5WmFRdzZZdWhFQm5VeThsd2pCT1FJWVBkUlJ6dTNsR3IzZTVyN19SbHFVSHBWTEdjMWFCMEpYT1lSTnJtYXdlQWJjNmhnUQ?oc=5",
-      "recorded_date": "November 23, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Vulnerable below $83.00 amid Mideast jitters",
       "source": "www.tmgm.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWHZjRGJaMHlYX1U0YVJrVE40S21yYUJpWjdfQlZMMGxDNElsZGtUOUtUelJjQ09kWXA4QU5pWWUycDhPa3VaMzV4c2VEbkxUd0lmS3JhOVBrSjhHLW9EQ1I0VmkxUVZ2UE5zZTBKZmFTcGFHazhNd3daUXJzY25TVzR6amZBV3RtRUItWVdoekI2R3hFYjZwWndUQjBWeW5qME1RTkhaYmNSX3ZCbThJa1pIVDh4aVFNemhmVGllZzVLczhoMFktVjRySHgxdVh6SE5yQl9B?oc=5",
-      "recorded_date": "November 23, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
-      "value": "$3,530.75 per ounce",
-      "source": "JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeG1LTXdEMlV4U2s3enVFTUk1ZGdZOHl2TXc0SVBuRlV4S2pZMFFRZW1nYjhpMDh5TXF2Q0lndXNKRmctdEY5azY2WVp6aHRoM2RSZnlqdWhOUWdlcnFsMlItU21Bd21uUmtkY0M3U2U1bVhXajRUSVA2QVZqYkdQdHduMkxMTW53YXl5c0V4b2RnY1dhUUR1VXUwdFZLTHBOVmZXVkMtTURHTEs1d1dscGFPbHEwb2VabUVLcQ?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Rebounded above $3,600 per ounce",
+      "source": "Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmlMc09aZmwyOXZDY0czNzNNNzhtZjhTUS1vTDVhbHRESzljMHBXRDVKRmNRRHU1d3haS0pHOFdrbmJobUgyd05MM3pPMHVDZXZDT1NuVzhCNGR3bDNoNVRuZjJ0UUdSeUZjdDhWc2FtaENvUnNFSHRuUTEySHze_cqN5hOrL5zu1FCszg2oy80cbDeyT1A?oc=5",
+      "recorded_date": "2026-11-25"
     },
     "usd_inr": {
       "value": "92.85",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNN3FWWmxDR2l6OVVjMWQwQ0p0VWJ4UGtrUHR5Q1VSZm5Fcjk4VllhcW9lSG0tZnZZTnZwYWc2ZTdzOHFhMFdEc1NQQldSMFJXVkxHSGIwV0wyc0p5RzRJakt5T184RWZIQ3F3M3NBak82MGJuUjBqZDdwQ2lfVU5oM2tEb1VhVjdQQ18xMGI3SE5obG1ZZUFXVVpnUjFjZ0RJUW1UVXo5UFJGMi1WN3lBdzNOaVdVVTlRclhsODFVUXpCLUxuYS15OWl1U04yMXdzMzhnaG1pNWpPQ2ZuTXpUZURoM1UteWRJQmVwUkI0dWpaT1VSbnfSAfsBQVVfeXFMTTFKT1dWVDhIYWE5blptdmJHV0hTVmpVY1o5NGVaeVYtdGtvVVI4bVdaZU44MG5HVkV3Y3hDQjlKbjd6WFhkLWxILXhSUFNEVHo1cjRTd2NXbVBzbHEzM2I5UTd2bGwyMFEzaVQ2UjQzYXhpNm9NcEFNcDZmckYzY3FYTmNZWHBzOTlLTG9za1NHSlNRbm9zMm1IMkxpdTJBYnsc3Ffby0wRHFOT1dWa1F6a0JndEhjeVdtU3FVcnp1clczdUF3R3ZOTWxVUV9qX1h3VEhhN2JhazB1RHh6SFBFbTVJY2hRVUZOMXdBYUtuemxRQS1VZ1RZckk?oc=5",
-      "recorded_date": "November 23, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
