@@ -1,18 +1,18 @@
 {
-  "recorded_at": "2026-11-26T09:42:00.659848+00:00",
+  "recorded_at": "2026-11-27T09:48:38.568539+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
       "value": "Below 25,900",
       "source": "Moneycontrol",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWE1KQnRUeGRPSHVqenFJLXdid0pLaVlsczItUjlpcWxWdWlFYXd0UVYxb2NOYXlGRGZYamdRTlpad0pJNHZIdWtiUjk0a1JlV0d4ZnVWRUZKLTJaUzltZmNDRXpjVGdIX0F1a25MWGZrRWkyVzEwNDY5S1VUSjdLRkNoV1ljbGRNeC1XYnpVaWw4THFLTjVjSE5ETUh3Rl9nblFIRmsySnhWNURld1F6OE9hSi1ObkRlQ2FWTC1vQXdCZjlJRDZpSUtKZzJOc043TWdfOEhsVTZ1U0REbUY1Z0RxTEtJLVktM0hBaG1ldU83Y3dRd0HSAfYBQVVfeXFMTlhNSkJ0VHhkT0h1anpxSS13YndKS2lZbHMyLVI5aXFsVnVpRWF3dFFWMW9jTmF5RkRmWGpnUU5aWndKSTR2SHVrYlI5NGtSZVdHeGZ1VkVGSi0yWlM5bWZjQ0V6Y1RnSF9BdWtuTFhma0VpMlcxMDQ2OUtVVEo3S0ZDaFdZY2xkTXgtV2J6VWlsOExxS041Y0hORE1Id0ZfZ25RSEZrMkp4VjVEZXdRejhPYUotTm5EZUNhVkwtb0F3QmY5SUQ2aUlLSmcyTnNON01nXzhIbFU2dVNERG1GNWdEcUxLSS1ZLTNIQWhtZXVPN2N3UXdB",
-      "recorded_date": "November 26, 2026"
+      "recorded_date": "previous edition"
     },
     "sensex_previous_close": {
       "value": "Down 300 pts from day's high",
       "source": "Moneycontrol",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWE1KQnRUeGRPSHVqenFJLXdid0pLaVlsczItUjlpcWxWdWlFYXd0UVYxb2NOYXlGRGZYamdRTlpad0pJNHZIdWtiUjk0a1JlV0d4ZnVWRUZKLTJaUzltZmNDRXpjVGdIX0F1a25MWGZrRWkyVzEwNDY5S1VUSjdLRkNoV1ljbGRNeC1XYnpVaWw4THFLTjVjSE5ETUh3Rl9nblFIRmsySnhWNURld1F6OE9hSi1ObkRlQ2FWTC1vQXdCZjlJRDZpSUtKZzJOc043TWdfOEhsVTZ1U0REbUY1Z0RxTEtJLVktM0hBaG1ldU83Y3dRd0HSAfYBQVVfeXFMTlhNSkJ0VHhkT0h1anpxSS13YndKS2lZbHMyLVI5aXFsVnVpRWF3dFFWMW9jTmF5RkRmWGpnUU5aWndKSTR2SHVrYlI5NGtSZVdHeGZ1VkVGSi0yWlM5bWZjQ0V6Y1RnSF9BdWtuTFhma0VpMlcxMDQ2OUtVVEo3S0ZDaFdZY2xkTXgtV2J6VWlsOExxS041Y0hORE1Id0ZfZ25RSEZrMkp4VjVEZXdRejhPYUotTm5EZUNhVkwtb0F3QmY5SUQ2aUlLSmcyTnNON01nXzhIbFU2dVNERG1GNWdEcUxLSS1ZLTNIQWhtZXVPN2N3UXdB",
-      "recorded_date": "November 26, 2026"
+      "recorded_date": "previous edition"
     },
     "gift_nifty": {
       "value": "Down 217 Points",
@@ -21,34 +21,34 @@
       "recorded_date": "previous edition"
     },
     "us_markets": {
-      "value": "Down 7% across Dow Jones, Nasdaq, S&P 500",
-      "source": "Goodreturns",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTzBDMm1BdlpCMjEzckljN19QVkt1T3FVYlhSSDd2QlItWWNhRkVSaVNCMzJhUWU5WnJfRHlLenUtcFd1SURucWF6TUdqZnlOd0k2NC1ycURKTkpYZW1jVlZDdndzNWpCZ0RpX0liSXg1OGRNSGd0QVRLQl8yb2NLOHZTc013MzFoemQ1eTRHOTlORU8wMmRESHUyS0hvYm5jcjdwbGU1MmRyYzVybEhUeldid3puZkJfbWh5emRUcTVBQjJjRUw1VVRnMVVheE0wTEVYcHdnWlA?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% (S&P 500 tops 7,300)",
+      "source": "TradingView / Moneycontrol",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYkxFUm1KV2tpNjRrTzVQQ0x6ZGdRZ3AwTGJDX0lIOUZJdjlyV0NfeUpGTWYyamNkLXQteG5rblh0SDluQmNVYUwtUC1Sc0RaTUFNM2lscnVmUjNWQ096VFZER1JoMlZpTGFCMVdlZ2VKRG03UmZSaGNCUEFCNXZ3Z3l0RnlkYXJPT2lueWVpeWZveGdsVEs4Ukc2QTNLcklCaWNGVExQMGw5SmZJX3Z3aW5pcDRPbk9XazNsQXBTdEhwdnAwYzN5S2ZtUjU1M2tMMzFiSldWU04xcnVvSWYta21PbzMza29NeHVERTYxdFg3Yjh5QWVwRHQzS3hpNmlHd0I40gGIAkFVX3lxTE5XUXlxejB1X1lDaXVkVER5VEVlVXhVc2pRelRtV25raE5qZkFmTzJQeFExRm80ajg4d0UyakZZUHRzVmJBMHF6b1A0UFBEZFZRM05iZkFVN0tQLVlrVHNydFVqQ2RqbXU5eDB0d2tWeUkzWVlLYVpGYld1QlRpUHNkWjM5UndVbW5BVldoYjB3YU9XN3QzR2pFVGswUUZzanFsZi1tejlvaGpxSGdhNnFfakh4OXZ3Rk52aXVkdTlSdFdtY20zejJyWXFDWHlKUVNvQ0kyeS01TXAtZ2VKQ0E3cDlNSElBMk1fRTlzLWFDTWlYRVlYV0VWTmxHTmJpZzM2bnJydVU0Mg",
+      "recorded_date": "November 27, 2026"
     },
     "asian_markets": {
-      "value": "Mixed / Lower (Nikkei ends below 57,100; Taiex down 4.8% amid AI chip selloff)",
-      "source": "MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORk9vWGdtMHVCMnFvUENvU3hvN2tVWXlUYV9WOGJ6NUk5X2tFZWxHVzFPdUhoaENuNnpBMTQweExMQkNuUy1WWUJFT282WEs3cmIwSXpiYmZzZ2JsdExfT0lLLUYyOVFLNDBDdWplSk93NVVWZ2xpUUEzSERaWUsxYk8zcS1mdlByeHRwUmRYZVh6em0xR0ZteW1nWmQxRENBQ3YwUllXQm1ERzQxclp3MUk0SWYxeVdTU0diOG92TWdaV3VvQ1E?oc=5",
-      "recorded_date": "previous edition"
+      "value": "Hang Seng up 2.07%, Nikkei rebounds 2.1%, Shanghai surges 3.7%, Kospi jumps 4%",
+      "source": "24/7 Wall St. / BigGo Finance / MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVdLMVVyMFl0NjNWb0J6TTYyZ2NMdHhxc1UtSkpmb0Q5MVlsVTFNYjNOdU96Nm9zY29ra2VyREkxV1NiMERVTnE2eEpHU2pTNkRNdE1ZdXdGazJSdnhaLTVYd2U5b2xpNmJaMFI3c3J4NFBkXzlmR1pSTW5QTUVfcTFiY1hNMEdzWk5FcUFHYlJQelAtVzhDOUFXbm5HWWZELUJIdS1NSldLSTVSb1ltS05fZWVXU0QwOXVQbFE1anpkakpmY3o4Sw",
+      "recorded_date": "November 27, 2026"
     },
     "brent_crude": {
       "value": "Near $95 per barrel",
       "source": "Kotak Neo",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFpseGk3SEppd19FQVVOUHBhWFFuOUlfczdWc1czYXJ5R3ZvdGtiVnhoTG9lcVkwcXlScXlybXEtanIyZGxIenZZZk94eUQ0ZVM0bUJMbU1VcDNUSWxFcU9EeTVwZnhfNDlWSXRoUk8tSm9uek13RUNlRVJPYWVWUFJidlhiM2hrRlJHbll2Um94dzg0WmlybmFQclhMY3otdHZDR1VVOA",
-      "recorded_date": "November 26, 2026"
+      "recorded_date": "previous edition"
     },
     "gold": {
       "value": "Stabilizing around $3,500 after tumbling, MCX gold gained 1%",
       "source": "Kotak Neo",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OSUVScmNuVTZzb2xiZ2hscS1odkZKUlcyQ3FIbk8xWnBLQmgyWlJoNkk5bjNrRnMtQUlQQkdRcWlnZnl6UWhYcU5SQkpLcGNWS2FuTU9yYUdZVWtKQkJsZk4tdWlKbTgwcUVHQUgzVkJieWxTYWc",
-      "recorded_date": "November 26, 2026"
+      "recorded_date": "previous edition"
     },
     "usd_inr": {
       "value": "92.40 (down 20 paise)",
       "source": "Kotak Neo",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYXlFVFMzUXI0Zi1EQy1pcWhSTUxfaVFNVWpPcEtEaVJSYkdJSlZBczU5OTF5SklUVkFfbzjjRFZ3c1FKeWo3OXRyMnNMOGstNVcxcGVZbl9sMl9ZSlhWQU1sN3AyeUdFdFlxMFJpSDBiZTBqMTRxc1lNRjBqZnhEdkp6bF9XV2RnWFgzbXZDUVNRalZ6ZUNUaW11N0hKRmdFSS1MbmdyWVJjSkY4MkRybWRiaExhbE5ydFBwWWtfb181d1JicEpRaEh3",
-      "recorded_date": "November 26, 2026"
+      "recorded_date": "previous edition"
     },
     "us_10y": {
       "value": "Crashed to 3-week low following record Treasury selloff",
