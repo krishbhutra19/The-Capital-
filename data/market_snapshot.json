@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-11-27T09:48:38.568539+00:00",
+  "recorded_at": "2026-11-28T09:02:58.603917+00:00",
   "recorded_note": "Seeded from the last valid market observations for the October 4, 2026 weekend edition.",
   "metrics": {
     "nifty_previous_close": {
@@ -24,13 +24,13 @@
       "value": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% (S&P 500 tops 7,300)",
       "source": "TradingView / Moneycontrol",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYkxFUm1KV2tpNjRrTzVQQ0x6ZGdRZ3AwTGJDX0lIOUZJdjlyV0NfeUpGTWYyamNkLXQteG5rblh0SDluQmNVYUwtUC1Sc0RaTUFNM2lscnVmUjNWQ096VFZER1JoMlZpTGFCMVdlZ2VKRG03UmZSaGNCUEFCNXZ3Z3l0RnlkYXJPT2lueWVpeWZveGdsVEs4Ukc2QTNLcklCaWNGVExQMGw5SmZJX3Z3aW5pcDRPbk9XazNsQXBTdEhwdnAwYzN5S2ZtUjU1M2tMMzFiSldWU04xcnVvSWYta21PbzMza29NeHVERTYxdFg3Yjh5QWVwRHQzS3hpNmlHd0I40gGIAkFVX3lxTE5XUXlxejB1X1lDaXVkVER5VEVlVXhVc2pRelRtV25raE5qZkFmTzJQeFExRm80ajg4d0UyakZZUHRzVmJBMHF6b1A0UFBEZFZRM05iZkFVN0tQLVlrVHNydFVqQ2RqbXU5eDB0d2tWeUkzWVlLYVpGYld1QlRpUHNkWjM5UndVbW5BVldoYjB3YU9XN3QzR2pFVGswUUZzanFsZi1tejlvaGpxSGdhNnFfakh4OXZ3Rk52aXVkdTlSdFdtY20zejJyWXFDWHlKUVNvQ0kyeS01TXAtZ2VKQ0E3cDlNSElBMk1fRTlzLWFDTWlYRVlYV0VWTmxHTmJpZzM2bnJydVU0Mg",
-      "recorded_date": "November 27, 2026"
+      "recorded_date": "previous edition"
     },
     "asian_markets": {
       "value": "Hang Seng up 2.07%, Nikkei rebounds 2.1%, Shanghai surges 3.7%, Kospi jumps 4%",
       "source": "24/7 Wall St. / BigGo Finance / MLQ.ai",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVdLMVVyMFl0NjNWb0J6TTYyZ2NMdHhxc1UtSkpmb0Q5MVlsVTFNYjNOdU96Nm9zY29ra2VyREkxV1NiMERVTnE2eEpHU2pTNkRNdE1ZdXdGazJSdnhaLTVYd2U5b2xpNmJaMFI3c3J4NFBkXzlmR1pSTW5QTUVfcTFiY1hNMEdzWk5FcUFHYlJQelAtVzhDOUFXbm5HWWZELUJIdS1NSldLSTVSb1ltS05fZWVXU0QwOXVQbFE1anpkakpmY3o4Sw",
-      "recorded_date": "November 27, 2026"
+      "recorded_date": "previous edition"
     },
     "brent_crude": {
       "value": "Near $95 per barrel",
